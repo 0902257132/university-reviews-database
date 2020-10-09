@@ -8,6 +8,10 @@ const { MongooseAdapter: Adapter } = require('@keystonejs/adapter-mongoose');
 const PROJECT_NAME = 'cms-university-reviews';
 const adapterConfig = { mongoUri: 'mongodb://127.0.0.1:27017/cms-university-reviews' };
 
+//importing schema
+const TopicSchema = require('./schema/Topic');
+const UniversitySchema = require('./schema/University');
+
 
 const keystone = new Keystone({
   adapter: new Adapter(adapterConfig),
@@ -19,6 +23,8 @@ keystone.createList('Todo', {
     name: { type: Text, schemaDoc: 'This is the thing you need to do' },
   },
 });
+keystone.createList('Topic', TopicSchema);
+keystone.createList('University', UniversitySchema);
 
 module.exports = {
   keystone,
