@@ -1,10 +1,11 @@
-const { Text, Relationship } = require('@keystonejs/fields');
+const { Text, Relationship, DateTime } = require('@keystonejs/fields');
 
 module.exports =  {
     fields: {
         name:{
             type: Text,
-            isRequire: true
+            isRequire: true,
+            isUnique: true
         },
         description: {
             type: Text
@@ -13,6 +14,9 @@ module.exports =  {
             type: Relationship,
             ref: 'Topic.university',
             many: true
+        },
+        date: {
+            type: DateTime
         }
     }
 }

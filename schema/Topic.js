@@ -1,4 +1,4 @@
-const { Text, Relationship } = require('@keystonejs/fields');
+const { Text, Relationship, DateTime } = require('@keystonejs/fields');
 
 module.exports =  {
     fields: {
@@ -14,6 +14,10 @@ module.exports =  {
             type: Relationship,
             ref: 'University.topics',
             many: false
+        },
+        date: {
+            type: DateTime,
+            
         }
     }
 }

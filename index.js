@@ -6,11 +6,14 @@ const { StaticApp } = require('@keystonejs/app-static');
 
 const { MongooseAdapter: Adapter } = require('@keystonejs/adapter-mongoose');
 const PROJECT_NAME = 'cms-university-reviews';
-const adapterConfig = { mongoUri: 'mongodb://127.0.0.1:27017/cms-university-reviews' };
+const mongoAtlasConnection = 'mongodb+srv://admin:123@university-reviews-clus.24v0h.gcp.mongodb.net/university-reviews-database?retryWrites=true&w=majority';
+const mongoConnection = 'mongodb://127.0.0.1:27017/cms-university-reviews';
+const adapterConfig = { mongoUri: `${mongoAtlasConnection}` };
 
 //importing schema
 const TopicSchema = require('./schema/Topic');
 const UniversitySchema = require('./schema/University');
+const GalerySchema = require('./schema/Galery');
 
 
 const keystone = new Keystone({
@@ -25,6 +28,7 @@ keystone.createList('Todo', {
 });
 keystone.createList('Topic', TopicSchema);
 keystone.createList('University', UniversitySchema);
+keystone.createList('Galery', GalerySchema);
 
 module.exports = {
   keystone,
