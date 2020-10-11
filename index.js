@@ -29,6 +29,7 @@ keystone.createList('Todo', {
 keystone.createList('Topic', TopicSchema);
 keystone.createList('University', UniversitySchema);
 keystone.createList('Galery', GalerySchema);
+// "homepage": "https://github.com/keystonejs/keystone",
 
 module.exports = {
   keystone,
