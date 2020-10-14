@@ -1,5 +1,4 @@
 {
-  "homepagedeploy": "http://0902257132.github.io/university-reviews-database",
   "name": "@keystonejs/example-projects-todo",
   "description": "An example KeystoneJS project showcasing a simple Todo List with a Keystone StaticApp front-end.",
   "private": true,
@@ -12,8 +11,6 @@
     "node": ">=10.0.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "dev": "cross-env NODE_ENV=development DISABLE_LOGGING=true keystone dev",
     "build": "cross-env NODE_ENV=production keystone build",
     "start": "cross-env NODE_ENV=production keystone start",
