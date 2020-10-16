@@ -9,15 +9,18 @@ const { MongooseAdapter: Adapter } = require('@keystonejs/adapter-mongoose');
 const PROJECT_NAME = 'cms-university-reviews';
 const mongoAtlasConnection = 'mongodb+srv://admin:123@university-reviews-clus.24v0h.gcp.mongodb.net/university-reviews-database?retryWrites=true&w=majority';
 const mongoConnection = 'mongodb://127.0.0.1:27017/cms-university-reviews';
-const adapterConfig = { mongoUri: `${mongoAtlasConnection}` };
+const adapterConfig = { mongoUri: `${ mongoAtlasConnection }` };
 
 //importing schema
 const TopicSchema = require('./schema/Topic');
 const UniversitySchema = require('./schema/University');
 const GalerySchema = require('./schema/Galery');
 const CommentSchema = require('./schema/Comment');
-const DetailUniversitySchema = require('./schema/DetailUniversity')
-const AccountSchema = require('./schema/Account')
+const DetailUniversitySchema = require('./schema/DetailUniversity');
+const AccountSchema = require('./schema/Account');
+const GroupMajorSchema = require('./schema/GroupMajor');
+const DetailMajorSchema = require('./schema/DetailMajor');
+const PartnerSchema = require('./schema/Partner');
 
 
 const keystone = new Keystone({
@@ -36,7 +39,11 @@ keystone.createList('Galery', GalerySchema);
 keystone.createList("Comment", CommentSchema);
 keystone.createList("DetailUniversity", DetailUniversitySchema);
 keystone.createList("Account", AccountSchema);
+keystone.createList("GroupMajor", GroupMajorSchema);
+keystone.createList("DetailMajor", DetailMajorSchema);
+keystone.createList("Partner", PartnerSchema);
 
+//Config secure authen by account
 const authStrategy = keystone.createAuthStrategy({
   type: PasswordAuthStrategy,
   list: "Account",

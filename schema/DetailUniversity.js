@@ -12,13 +12,19 @@ module.exports =  {
             editorConfig
         },
         majors: {
-            type: Text
+            type: Relationship,
+            ref: 'GroupMajor',
+            many: true
         },
-        cooperation: {
-            type: Text
+        partner: {
+            type: Relationship,
+            ref: 'Partner',
+            many: true
         },
         galeries: {
-            type: Text
+            type: Relationship,
+            ref: 'Galery',
+            many: true
         }
     }
 }

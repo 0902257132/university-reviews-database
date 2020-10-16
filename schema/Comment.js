@@ -7,8 +7,10 @@ module.exports =  {
            type: Text,
            isRequire: true
        },
-       user: { //warning
-           type: Text
+       user: { 
+           type: Relationship,
+           ref: 'Account.comments',
+           many: false
        }
       
     }

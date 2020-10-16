@@ -1,4 +1,4 @@
-const {  Text, Password, Checkbox  } = require('@keystonejs/fields');
+const {  Text, Password, Checkbox, Relationship  } = require('@keystonejs/fields');
 
 module.exports =  {
     schemaDoc: 'A list of comment which discuss about a topic',
@@ -18,6 +18,16 @@ module.exports =  {
     isAdmin :{
         type: Checkbox,
         isRequire: true
+    },
+    topics:{
+        type: Relationship,
+        ref: 'Topic.user',
+        many: true
+    },
+    comments:{
+        type: Relationship,
+        ref: 'Comment.user',
+        many: true
     }
     }
 }

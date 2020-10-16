@@ -22,17 +22,18 @@ module.exports =  {
         },
         date: {
             type: DateTime,
-            
         }, 
         like: {
             type: Integer
         },
-        comments: {  //Warning
+        comments: {  
             type: Relationship,
             ref: 'Comment'
         },
-        user: { //Warning
-            type: Text
+        user: { 
+            type: Relationship,
+            ref: 'Account.topics',
+            many: false
         },
         university: {
             type: Relationship,

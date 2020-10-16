@@ -28,8 +28,9 @@ module.exports =  {
             many: true
         },
         //Warning
-        overview: {
-            type: Text 
+        detailUniversity: {
+            type: Relationship,
+            ref: 'DetailUniversity'
         }
        
     }
