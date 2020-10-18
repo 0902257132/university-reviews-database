@@ -6,6 +6,7 @@ module.exports =  {
     schemaDoc: 'A list of university in Vietnam',
     fields: {
         name: { type: Text },
+        code: { type: Text},
         address: {
             type: Text
         },
@@ -27,7 +28,6 @@ module.exports =  {
             ref: 'Topic.university',
             many: true
         },
-        //Warning
         detailUniversity: {
             type: Relationship,
             ref: 'DetailUniversity'
