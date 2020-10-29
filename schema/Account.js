@@ -1,33 +1,44 @@
-const {  Text, Password, Checkbox, Relationship  } = require('@keystonejs/fields');
+const {
+  Text,
+  Password,
+  Checkbox,
+  Relationship,
+} = require("@keystonejs/fields");
 
-module.exports =  {
-    schemaDoc: 'A list of comment which discuss about a topic',
-    fields: {
-      email:{
-          type: Text,
-          isRequire: true
-      },
-      password:{
-        type: Password,
-        isRequire: true
+module.exports = {
+  schemaDoc: "A list of comment which discuss about a topic",
+  fields: {
+    email: {
+      type: Text,
+      isRequired: true,
     },
-    username:{
-        type: Text,
-        isRequire: true
+    password: {
+      adminDoc: "Fill if you are admin university",
+      type: Password,
+      isRequired: true,
     },
-    isAdmin :{
-        type: Checkbox,
-        isRequire: true
+    passwordUser: {
+      adminDoc: "Password for user",
+      type: Text,
     },
-    topics:{
-        type: Relationship,
-        ref: 'Topic.user',
-        many: true
+    username: {
+      type: Text,
+      isRequired: true,
     },
-    comments:{
-        type: Relationship,
-        ref: 'Comment.user',
-        many: true
-    }
-    }
-}
+    isAdmin: {
+      type: Checkbox,
+      isRequired: true,
+    },
+    topics: {
+      type: Relationship,
+      ref: "Topic.user",
+      many: true,
+    },
+    comments: {
+      type: Relationship,
+      ref: "Comment.user",
+      many: true,
+    },
+  },
+  labelResolver: (item) => item.email,
+};
