@@ -11,6 +11,14 @@ module.exports = {
       type: Relationship,
       ref: "Account.comments",
       many: false,
+      isRequired: true,
+    },
+    topic: {
+      type: Relationship,
+      ref: "Topic.comments",
+      many: false,
+      isRequired: true,
     },
   },
+  labelResolver: (item) => item.content,
 };

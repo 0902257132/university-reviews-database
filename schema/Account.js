@@ -15,7 +15,6 @@ module.exports = {
     password: {
       adminDoc: "Fill if you are admin university",
       type: Password,
-      isRequired: true,
     },
     passwordUser: {
       adminDoc: "Password for user",

@@ -28,7 +28,8 @@ module.exports = {
     },
     comments: {
       type: Relationship,
-      ref: "Comment",
+      ref: "Comment.topic",
+      many: true,
     },
     user: {
       type: Relationship,
