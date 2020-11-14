@@ -11,6 +11,7 @@ module.exports = {
     email: {
       type: Text,
       isRequired: true,
+      isUnique: true,
     },
     password: {
       adminDoc: "Fill if you are admin university",
