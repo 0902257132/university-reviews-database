@@ -4,14 +4,24 @@ const {
   Checkbox,
   Relationship,
 } = require("@keystonejs/fields");
+const access = require("./../access-control");
 
 module.exports = {
   schemaDoc: "A list of comment which discuss about a topic",
+  access: {
+    read: access.userIsAdminOrOwner,
+    update: access.userIsAdminOrOwner,
+    create: access.userIsAdmin,
+    delete: access.userIsAdmin,
+  },
   fields: {
     email: {
       type: Text,
       isRequired: true,
       isUnique: true,
+      // access: ({ existingItem, authentication: { item } }) => {
+      //   return item.isAdmin || existingItem.id === item.id;
+      // },
     },
     password: {
       adminDoc: "Fill if you are admin university",

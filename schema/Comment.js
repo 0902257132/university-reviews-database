@@ -1,7 +1,14 @@
 const { Text, Relationship } = require("@keystonejs/fields");
+const access = require("./../access-control");
 
 module.exports = {
   schemaDoc: "A list of comment which discuss about a topic",
+  access: {
+    read: access.userIsAdmin,
+    create: access.userIsAdmin,
+    delete: access.userIsAdmin,
+    update: access.userIsAdmin,
+  },
   fields: {
     content: {
       type: Text,

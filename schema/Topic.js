@@ -3,9 +3,16 @@ const { Wysiwyg } = require("@keystonejs/fields-wysiwyg-tinymce");
 const editorConfig = {
   forced_root_block: "",
 };
+const access = require("./../access-control");
 
 module.exports = {
   schemaDoc: "A list of topics which user want to share",
+  access: {
+    read: access.userIsAdmin,
+    create: access.userIsAdmin,
+    delete: access.userIsAdmin,
+    update: access.userIsAdmin,
+  },
   fields: {
     title: {
       type: Text,
