@@ -1,27 +1,27 @@
-const { Keystone } = require('@keystonejs/keystone');
-const { Text } = require('@keystonejs/fields');
-const { GraphQLApp } = require('@keystonejs/app-graphql');
-const { AdminUIApp } = require('@keystonejs/app-admin-ui');
-const { StaticApp } = require('@keystonejs/app-static');
+const { Keystone } = require("@keystonejs/keystone");
+const { Text } = require("@keystonejs/fields");
+const { GraphQLApp } = require("@keystonejs/app-graphql");
+const { AdminUIApp } = require("@keystonejs/app-admin-ui");
+const { StaticApp } = require("@keystonejs/app-static");
 const { PasswordAuthStrategy } = require("@keystonejs/auth-password");
 
-const { MongooseAdapter: Adapter } = require('@keystonejs/adapter-mongoose');
-const PROJECT_NAME = 'cms-university-reviews';
-const mongoAtlasConnection = 'mongodb+srv://admin:123@university-reviews-clus.24v0h.gcp.mongodb.net/university-reviews-database?retryWrites=true&w=majority';
-const mongoConnection = 'mongodb://127.0.0.1:27017/cms-university-reviews';
-const adapterConfig = { mongoUri: `${ mongoAtlasConnection }` };
+const { MongooseAdapter: Adapter } = require("@keystonejs/adapter-mongoose");
+const PROJECT_NAME = "cms-university-reviews";
+const mongoAtlasConnection =
+  "mongodb+srv://admin:123@university-reviews-clus.24v0h.gcp.mongodb.net/university-reviews-database?retryWrites=true&w=majority";
+const mongoConnection = "mongodb://127.0.0.1:27017/cms-university-reviews";
+const adapterConfig = { mongoUri: `${mongoAtlasConnection}` };
 
 //importing schema
-const TopicSchema = require('./schema/Topic');
-const UniversitySchema = require('./schema/University');
-const GalerySchema = require('./schema/Galery');
-const CommentSchema = require('./schema/Comment');
-const DetailUniversitySchema = require('./schema/DetailUniversity');
-const AccountSchema = require('./schema/Account');
-const GroupMajorSchema = require('./schema/GroupMajor');
-const DetailMajorSchema = require('./schema/DetailMajor');
-const PartnerSchema = require('./schema/Partner');
-
+const TopicSchema = require("./schema/Topic");
+const UniversitySchema = require("./schema/University");
+const GalerySchema = require("./schema/Galery");
+const CommentSchema = require("./schema/Comment");
+const DetailUniversitySchema = require("./schema/DetailUniversity");
+const AccountSchema = require("./schema/Account");
+const GroupMajorSchema = require("./schema/GroupMajor");
+const DetailMajorSchema = require("./schema/DetailMajor");
+const PartnerSchema = require("./schema/Partner");
 
 const keystone = new Keystone({
   adapter: new Adapter(adapterConfig),
@@ -33,9 +33,10 @@ const keystone = new Keystone({
 //     name: { type: Text, schemaDoc: 'This is the thing you need to do' },
 //   },
 // });
-keystone.createList('Topic', TopicSchema);
-keystone.createList('University', UniversitySchema);
-keystone.createList('Galery', GalerySchema);
+
+keystone.createList("Topic", TopicSchema);
+keystone.createList("University", UniversitySchema);
+keystone.createList("Galery", GalerySchema);
 keystone.createList("Comment", CommentSchema);
 keystone.createList("DetailUniversity", DetailUniversitySchema);
 keystone.createList("Account", AccountSchema);
@@ -57,7 +58,11 @@ module.exports = {
   keystone,
   apps: [
     new GraphQLApp(),
-    new StaticApp({ path: '/', src: 'public' }),
-    new AdminUIApp({ name: PROJECT_NAME, enableDefaultRoute: true, authStrategy}),
+    new StaticApp({ path: "/", src: "public" }),
+    new AdminUIApp({
+      name: PROJECT_NAME,
+      enableDefaultRoute: true,
+      authStrategy,
+    }),
   ],
 };

@@ -1,9 +1,13 @@
 const { Text, Relationship, DateTime } = require("@keystonejs/fields");
 const { fileAdapter } = require("./Cloundinary.js");
 const { CloudinaryImage } = require("@keystonejs/fields-cloudinary-image");
+const access = require("./../access-control");
 
 module.exports = {
   schemaDoc: "A list of university in Vietnam",
+  access: {
+    delete: access.userIsAdmin,
+  },
   fields: {
     name: { type: Text },
     code: { type: Text },

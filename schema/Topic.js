@@ -10,8 +10,6 @@ module.exports = {
   access: {
     read: access.userIsAdmin,
     create: access.userIsAdmin,
-    delete: access.userIsAdmin,
-    update: access.userIsAdmin,
   },
   fields: {
     title: {

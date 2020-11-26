@@ -8,7 +8,7 @@ const editorConfig = {
 module.exports = {
   schemaDoc: "A list of comment which discuss about a topic",
   access: {
-    read: access.userIsAdmin,
+    read: access.userIsAdminOrOwner,
   },
   fields: {
     introduce: {
