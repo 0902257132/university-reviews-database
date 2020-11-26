@@ -6,8 +6,8 @@ const access = require("./../access-control");
 module.exports = {
   schemaDoc: "Description about image and video - schemaDoc",
   access: {
-    read: access.userIsAdmin,
-    create: access.userIsAdmin,
+     //read: access.userIsAdmin,
+   //create: access.userIsAdmin,
   },
   fields: {
     name: {

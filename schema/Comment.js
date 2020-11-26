@@ -4,8 +4,8 @@ const access = require("./../access-control");
 module.exports = {
   schemaDoc: "A list of comment which discuss about a topic",
   access: {
-    read: access.userIsAdmin,
-    create: access.userIsAdmin,
+    //read: access.userIsAdmin,
+   //create: access.userIsAdmin,
   },
   fields: {
     content: {

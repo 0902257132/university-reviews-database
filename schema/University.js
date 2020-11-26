@@ -6,7 +6,7 @@ const access = require("./../access-control");
 module.exports = {
   schemaDoc: "A list of university in Vietnam",
   access: {
-    delete: access.userIsAdmin,
+    //delete: access.userIsAdmin,
   },
   fields: {
     name: { type: Text },

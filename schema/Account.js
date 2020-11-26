@@ -10,18 +10,18 @@ module.exports = {
   schemaDoc: "A list of comment which discuss about a topic",
   access: {
     // update: access.userIsAdminOrOwner,
-    create: access.userIsAdmin,
-    delete: access.userIsAdmin,
-    read: access.userIsAdminOrOwner,
+    //create: access.userIsAdmin,
+    //delete: access.userIsAdmin,
+    //read: access.userIsAdminOrOwner,
   },
   fields: {
     email: {
       type: Text,
       isRequired: true,
       isUnique: true,
-      access: ({ existingItem, authentication: { item } }) => {
-        return item.isAdmin || existingItem.id === item.id;
-      },
+      //access: ({ existingItem, authentication: { item } }) => {
+       // return item.isAdmin || existingItem.id === item.id;
+     // },
     },
     password: {
       adminDoc: "Fill if you are admin university",
