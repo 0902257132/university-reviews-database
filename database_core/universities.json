@@ -1,0 +1,1455 @@
+[{
+  "_id": {
+    "$oid": "5f904c69f9193e3104664abf"
+  },
+  "name": "Đại học Bách khoa Hà Nội",
+  "code": "BKA",
+  "address": "Số 1 Đại Cồ Việt, Hai Bà Trưng, Hà Nội",
+  "zone": "Mien Bac",
+  "introduce": "Phát triển con người, đào tạo nhân lực chất lượng cao, nghiên cứu khoa học, sáng tạo công nghệ và chuyển giao tri thức, phục vụ xã hội và đất nước.",
+  "logo": {
+    "id": {
+      "$oid": "5f904c67f9193e3104664abe"
+    },
+    "filename": "tải xuống.png",
+    "originalFilename": "tải xuống.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "3f39538a0e130eab6a0caaa8bb55b705",
+      "public_id": "university-reviews-folder/5f904c67f9193e3104664abe",
+      "version": 1603292264,
+      "version_id": "53aac8e05d3715933931827f2dcc63ff",
+      "signature": "5d76453af0f27c28c28030b4ecd6a64e30f2f943",
+      "width": 184,
+      "height": 274,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-21T14:57:44Z",
+      "tags": [],
+      "bytes": 10753,
+      "type": "upload",
+      "etag": "e2a12947a080e273a576d2a0e80bcd1e",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603292264/university-reviews-folder/5f904c67f9193e3104664abe.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603292264/university-reviews-folder/5f904c67f9193e3104664abe.png",
+      "original_filename": "file"
+    }
+  },
+  "detailUniversity": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "__v": 0,
+  "email": "bachkhoahannoi@edu.vn"
+},{
+  "_id": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "name": "Đại học Kỹ thuật Y - Dược Đà Nẵng",
+  "code": "YDN",
+  "address": "Số 99 đường Hùng Vương, phường Hải Châu 1, quận Hải Châu, Tp. Đà Nẵng",
+  "email": "dhktyd@dhktyduocdn.edu.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mạng: Đào tạo nguồn nhân lực y tế trình độ đại học, sau đại học bảo đảm chất lượng; Nghiên cứu khoa học, ứng dụng và chuyển giao công nghệ đóng góp hiệu quả vào công tác đào tạo và sự nghiệp bảo vệ, chăm sóc và nâng cao sức khỏe nhân dân.",
+  "logo": {
+    "id": {
+      "$oid": "5f90548df9193e3104664af4"
+    },
+    "filename": "unnamed.png",
+    "originalFilename": "unnamed.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "142ea9b26b5d73887336145fbfa35c4c",
+      "public_id": "university-reviews-folder/5f90548df9193e3104664af4",
+      "version": 1603294351,
+      "version_id": "69085e721f66ae7aadd6bec59d92cff3",
+      "signature": "e429d7fe3cac751bd3b95d3d6f9cfad596365dd1",
+      "width": 512,
+      "height": 512,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-21T15:32:31Z",
+      "tags": [],
+      "bytes": 245812,
+      "type": "upload",
+      "etag": "d750142d353cbcd38d797a3f34d96dfd",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603294351/university-reviews-folder/5f90548df9193e3104664af4.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603294351/university-reviews-folder/5f90548df9193e3104664af4.png",
+      "original_filename": "file"
+    }
+  },
+  "detailUniversity": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1f2f9193e3104664b1c"
+  },
+  "name": "Đại học Luật TP.HCM",
+  "code": "LPS",
+  "address": "Số 02 Nguyễn Tất Thành, phường 12, quận 4, Tp. Hồ Chí Minh",
+  "email": "tuyensinh@hcmulaw.edu.vn - bantruyenthong@hcmulaw.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng: “Xây dựng Trường ĐH Luật TP. HCM trở thành một trong những trung tâm đào tạo và nghiên cứu khoa học pháp lý có uy tín trong cả nước và trong khu vực, nhằm cung cấp nguồn lực có trình độ từ trung cấp đến đại học và sau đại học trong lĩnh vực pháp lý cho các địa phương và các bộ ngành; góp phần giải quyết các vấn đề quan trọng trong khoa học pháp lý của cả nước nói chung và của các tình phía Nam nói riêng”",
+  "logo": {
+    "id": {
+      "$oid": "5f90f1f0f9193e3104664b1b"
+    },
+    "filename": "Truong-dai-hoc-luat-tp-ho-chi-minh.jpg",
+    "originalFilename": "Truong-dai-hoc-luat-tp-ho-chi-minh.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "202df6fcbcf4d8ff0eabfe642de00529",
+      "public_id": "university-reviews-folder/5f90f1f0f9193e3104664b1b",
+      "version": 1603334641,
+      "version_id": "04a493adddefbbd08a2ef9ad27c2da43",
+      "signature": "63303305b306c6b44e67ea4fa86bd15514ab0b11",
+      "width": 800,
+      "height": 800,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T02:44:01Z",
+      "tags": [],
+      "bytes": 57865,
+      "type": "upload",
+      "etag": "ab91f8859f28e273200a488068418e2b",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603334641/university-reviews-folder/5f90f1f0f9193e3104664b1b.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603334641/university-reviews-folder/5f90f1f0f9193e3104664b1b.jpg",
+      "original_filename": "file"
+    }
+  },
+  "detailUniversity": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f338f9193e3104664b1f"
+  },
+  "name": "Khoa Y - ĐHQG TP.HCM",
+  "code": "QSY",
+  "address": "Nhà Điều hành Đại học Quốc gia TP.HCM, P. Linh Trung, Q.Thủ Đức, TP.HCM",
+  "email": "dt_ctsv@medvnu.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mệnh: Khoa Y ĐHQG-HCM là đơn vị đào tạo nguồn nhân lực chất lượng cao, kết hợp nghiên cứu khoa học và ứng dụng các thành quả nghiên cứu vào đào tạo, khám chữa bệnh nhằm đáp ứng nhu cầu chăm sóc và bảo vệ sức khoẻ cho nhân dân.",
+  "logo": {
+    "id": {
+      "$oid": "5f90f335f9193e3104664b1e"
+    },
+    "filename": "khoa_y_dhqg-hcm.png",
+    "originalFilename": "khoa_y_dhqg-hcm.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "ee61922c6f8b8dbcc4e7a95cb8f68619",
+      "public_id": "university-reviews-folder/5f90f335f9193e3104664b1e",
+      "version": 1603334967,
+      "version_id": "a82b1c64f48d979f15ad6408da7d42d0",
+      "signature": "9bedecbdeddf480c30077f29f5afb66acf6acbd1",
+      "width": 640,
+      "height": 620,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T02:49:27Z",
+      "tags": [],
+      "bytes": 179676,
+      "type": "upload",
+      "etag": "a29767b3445b13feaadfe8fbf83d4dbb",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603334967/university-reviews-folder/5f90f335f9193e3104664b1e.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603334967/university-reviews-folder/5f90f335f9193e3104664b1e.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f38ef9193e3104664b21"
+  },
+  "name": "Học viện Hàng không Việt Nam",
+  "code": "HHK",
+  "address": "104 Nguyễn Văn Trỗi, Phường 8, Quận Phú Nhuận, Tp.Hồ Chí Minh",
+  "email": "info@vaa.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng: Học viện Hàng không Việt Nam thực hiện sứ mạng đào tạo nguồn nhân lực chất lượng cao; nghiên cứu khoa học, tư vấn và chuyển giao công nghệ ngành hàng không và các ngành kinh tế kỹ thuật khác đạt tiêu chuẩn quốc tế cho Việt Nam và các nước trong khu vực.",
+  "logo": {
+    "id": {
+      "$oid": "5f90f38bf9193e3104664b20"
+    },
+    "filename": "Hoc_vien_Hang_khongVN.png",
+    "originalFilename": "Hoc_vien_Hang_khongVN.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "7b8ba0408ab8990a35aba91ad6991ae6",
+      "public_id": "university-reviews-folder/5f90f38bf9193e3104664b20",
+      "version": 1603335053,
+      "version_id": "fb463b982eaab0095d8067f345bacb1e",
+      "signature": "c3bc43243c6efd9700476865003c12b749c59fb3",
+      "width": 720,
+      "height": 720,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T02:50:53Z",
+      "tags": [],
+      "bytes": 512026,
+      "type": "upload",
+      "etag": "a544d11e287e6c463d04f71e0fd0c44a",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603335053/university-reviews-folder/5f90f38bf9193e3104664b20.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603335053/university-reviews-folder/5f90f38bf9193e3104664b20.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f4bcf9193e3104664b23"
+  },
+  "name": "Đại học Cảnh sát Nhân dân",
+  "code": "CSS",
+  "address": "36 Nguyễn Hữu Thọ - Phường Tân Phong - Quận 7 - TP. Hồ Chí Minh.",
+  "email": "@pup.edu.vn",
+  "zone": "Mien Nam",
+  "logo": {
+    "id": {
+      "$oid": "5f90f4baf9193e3104664b22"
+    },
+    "filename": "trung-tam-day-nghe-va-dao-tao-lai-xe-truong-dai-hoc-canh-sat-nhan-dan-0-AWJXca.jpg",
+    "originalFilename": "trung-tam-day-nghe-va-dao-tao-lai-xe-truong-dai-hoc-canh-sat-nhan-dan-0-AWJXca.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "9acae29ea4d04545bb5681881504b57d",
+      "public_id": "university-reviews-folder/5f90f4baf9193e3104664b22",
+      "version": 1603335356,
+      "version_id": "5c3cdef3d245bae34748c48e91dd0023",
+      "signature": "a785b556f090f2280984505d082eb72c36909469",
+      "width": 263,
+      "height": 314,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T02:55:56Z",
+      "tags": [],
+      "bytes": 20597,
+      "type": "upload",
+      "etag": "64329ff63ca3bea71fa5f9b25380ce65",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603335356/university-reviews-folder/5f90f4baf9193e3104664b22.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603335356/university-reviews-folder/5f90f4baf9193e3104664b22.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f5f6f9193e3104664b25"
+  },
+  "name": "Đại học Kinh tế - Đại học Quốc gia Hà Nội",
+  "code": "QHE",
+  "address": "Nhà E4, 144 đường Xuân Thủy, quận Cầu Giấy, Hà Nội",
+  "email": "news_ueb@vnu.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Cung cấp cho xã hội nguồn nhân lực chất lượng cao theo định hướng chuyên gia, lãnh đạo trong các lĩnh vực kinh tế, quản lý và quản trị kinh doanh đáp ứng nhu cầu phát triển chất lượng, hiệu quả và bền vững của Việt Nam; nghiên cứu và chuyển giao các kết quả nghiên cứu cho Chính phủ, các tổ chức, doanh nghiệp và xã hội; tạo môi trường thuận lợi để sáng tạo, nuôi dưỡng, phát triển tài năng trong các lĩnh vực kinh tế, quản lý và quản trị kinh doanh hiện đại.",
+  "logo": {
+    "id": {
+      "$oid": "5f90f5f5f9193e3104664b24"
+    },
+    "filename": "images.png",
+    "originalFilename": "images.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "f73d825c30129fc4fa31493031d56d9a",
+      "public_id": "university-reviews-folder/5f90f5f5f9193e3104664b24",
+      "version": 1603335670,
+      "version_id": "11e384ba005f429c7945c9ffc6b4be55",
+      "signature": "8d164859002d7aa081bd951832bf71b9277ac974",
+      "width": 225,
+      "height": 225,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T03:01:10Z",
+      "tags": [],
+      "bytes": 7200,
+      "type": "upload",
+      "etag": "21be5f7d75aa388c3aae2a30b8c08355",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603335670/university-reviews-folder/5f90f5f5f9193e3104664b24.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603335670/university-reviews-folder/5f90f5f5f9193e3104664b24.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f6b7f9193e3104664b27"
+  },
+  "name": "Đại học Kinh tế Quốc dân",
+  "code": "KHA",
+  "address": "207 Giải Phóng, Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",
+  "email": "cnttkt@neu.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Trường Đại học Kinh tế Quốc dân tham gia phát triển và lan tỏa tri thức, thu hút và bồi dưỡng nhân tài, cung cấp nguồn nhân lực chất lượng cao, đáp ứng nhu cầu phát triển bền vững của đất nước. Phát huy vai trò là trường đại học đào tạo các nhà lãnh đạo cấp cao và những doanh nhân hàng đầu của Việt Nam. Giữ vững vị thế của một trung tâm nghiên cứu xuất sắc, nơi đề xuất đường lối, chính sách phát triển kinh tế xã hội của đất nước và tư vấn các giải pháp cho các tổ chức, doanh nghiệp.",
+  "logo": {
+    "id": {
+      "$oid": "5f90f6b6f9193e3104664b26"
+    },
+    "filename": "national-economics-university-logo-F6F6BB16E5-seeklogo.com.png",
+    "originalFilename": "national-economics-university-logo-F6F6BB16E5-seeklogo.com.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "754fcc0d59ed01fe2845a5dd0acb1c08",
+      "public_id": "university-reviews-folder/5f90f6b6f9193e3104664b26",
+      "version": 1603335863,
+      "version_id": "1fd7b758973f7d2f5d0680d2ea509d1c",
+      "signature": "7ad070c1582b8c6beec003f0516260ce9afaa9cf",
+      "width": 300,
+      "height": 300,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T03:04:23Z",
+      "tags": [],
+      "bytes": 60493,
+      "type": "upload",
+      "etag": "3f6458b13bb399a56f6508d7145bc42b",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603335863/university-reviews-folder/5f90f6b6f9193e3104664b26.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603335863/university-reviews-folder/5f90f6b6f9193e3104664b26.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f91063af9193e3104664b29"
+  },
+  "name": "Đại học Ngoại thương",
+  "code": "NTH",
+  "address": " 91 phố Chùa Láng, Đống Đa, Hà Nội",
+  "email": " qldt@ftu.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Sứ mạng của trường Đại học Ngoại thương là đào tạo nhân tài và cung cấp nguồn nhân lực chất lượng cao trong các lĩnh vực kinh tế, kinh doanh, quản trị kinh doanh, tài chính - ngân hàng, luật, công nghệ và ngoại ngữ; sáng tạo và chuyển giao tri thức khoa học đáp ứng yêu cầu của sự nghiệp CNH, HĐH đất nước; phát triển năng lực học tập, nghiên cứu khoa học của sinh viên; rèn luyện kỹ năng làm việc và lối sống trong môi trường quốc tế hiện đại. Trường còn là nơi phổ biến tri thức khoa học, nghề nghiệp cho cộng đồng doanh nghiệp và xã hội, là trung tâm giao lưu học thuật và văn hóa giữa các quốc gia và dân tộc trên thế giới.",
+  "logo": {
+    "id": {
+      "$oid": "5f910638f9193e3104664b28"
+    },
+    "filename": "tải xuống.png",
+    "originalFilename": "tải xuống.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "2a843789ea4ac7025445dad770f19583",
+      "public_id": "university-reviews-folder/5f910638f9193e3104664b28",
+      "version": 1603339834,
+      "version_id": "670213d46068b93953b61c00057b189d",
+      "signature": "3160a3b1e9187175ed815258642fbe96bdcc2475",
+      "width": 225,
+      "height": 225,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:10:34Z",
+      "tags": [],
+      "bytes": 11199,
+      "type": "upload",
+      "etag": "8e4178fbb29f1753a887bac6b6b05307",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603339834/university-reviews-folder/5f910638f9193e3104664b28.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603339834/university-reviews-folder/5f910638f9193e3104664b28.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9106f2f9193e3104664b2b"
+  },
+  "name": "Đại học Luật Hà Nội",
+  "code": "LPH",
+  "address": "87 Nguyễn Chí Thanh, Quận Đống Đa, Hà Nội",
+  "email": "admin@hlu.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mạng cung cấp nguồn nhân lực pháp luật chất lượng cao cho đất nước, cung cấp các sản phẩm khoa học và dịch vụ pháp lý chất lượng cao cho Nhà nước, xã hội và người dân, tham gia tích cực trong công tác xây dựng pháp luật và chính sách, phản biện xã hội, góp phần thực hiện nhiệm vụ xây dựng Nhà nước pháp quyền xã hội chủ nghĩa và hội nhập quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f9106f0f9193e3104664b2a"
+    },
+    "filename": "c6c295adea215f203afa7a102078fe4c.jpg",
+    "originalFilename": "c6c295adea215f203afa7a102078fe4c.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "00d0e8ae6d0a09624d18b5f9ffc3de7e",
+      "public_id": "university-reviews-folder/5f9106f0f9193e3104664b2a",
+      "version": 1603340018,
+      "version_id": "04f186f576f1c2eca62811259d8df3ee",
+      "signature": "5905051dbf7109e6fb1dbb3685fbcaa60b69b1de",
+      "width": 1000,
+      "height": 1000,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:13:38Z",
+      "tags": [],
+      "bytes": 112932,
+      "type": "upload",
+      "etag": "f36f19847f162b8caaa760013d9db0ac",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603340018/university-reviews-folder/5f9106f0f9193e3104664b2a.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603340018/university-reviews-folder/5f9106f0f9193e3104664b2a.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910797f9193e3104664b2d"
+  },
+  "name": "Đại học Ngoại ngữ (ĐHQG Hà Nội)",
+  "code": "QHF",
+  "address": "Số 2 Đường Phạm Văn Đồng, Q. Cầu Giấy, TP. Hà Nội",
+  "email": "dhnn@vnu.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Trường Đại học Ngoại ngữ – Đại học Quốc gia Hà Nội (ĐHNN – ĐHQGHN) đóng góp vào sự phát triển của đất nước thông qua việc đào tạo nguồn nhân lực chất lượng cao, nghiên cứu khoa học, cung cấp các sản phẩm và dịch vụ đáp ứng yêu cầu của xã hội theo chuẩn quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f910795f9193e3104664b2c"
+    },
+    "filename": "Logo_ulis.png",
+    "originalFilename": "Logo_ulis.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "7fa60d19a341b0302984b0787f456bee",
+      "public_id": "university-reviews-folder/5f910795f9193e3104664b2c",
+      "version": 1603340183,
+      "version_id": "1b2f2b6759d191046872f79197239415",
+      "signature": "19fed89e1938b9d0e27486420ddfbdae54fe4406",
+      "width": 300,
+      "height": 300,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:16:23Z",
+      "tags": [],
+      "bytes": 78715,
+      "type": "upload",
+      "etag": "a5a29235a084463a30de59736ee2bfdd",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603340183/university-reviews-folder/5f910795f9193e3104664b2c.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603340183/university-reviews-folder/5f910795f9193e3104664b2c.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910849f9193e3104664b2f"
+  },
+  "name": "Đại học Khoa học Tự nhiên - Đại học Quốc gia Hà Nội",
+  "code": "QHT",
+  "address": "334 đường Nguyễn Trãi, Quận Thanh Xuân, Hà Nội",
+  "email": "hus@vnu.edu.vn - admin@hus.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mạng: Trường ĐHKHTN là trường đại học nghiên cứu, có sứ mạng đào tạo nguồn nhân lực chất lượng cao, bồi dưỡng nhân tài, nghiên cứu sáng tạo và chuyển giao tri thức thuộc lĩnh vực khoa học và công nghệ, góp phần xây dựng, phát triển và bảo vệ đất nước.",
+  "logo": {
+    "id": {
+      "$oid": "5f910848f9193e3104664b2e"
+    },
+    "filename": "tải xuống.jpg",
+    "originalFilename": "tải xuống.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "c7322d5f9c9895b178dc67f94707245b",
+      "public_id": "university-reviews-folder/5f910848f9193e3104664b2e",
+      "version": 1603340361,
+      "version_id": "a35ba9ce35300381909eccd017f83a3b",
+      "signature": "c3688cb21142b24baace344b2909d36237e73af9",
+      "width": 198,
+      "height": 255,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:19:21Z",
+      "tags": [],
+      "bytes": 13851,
+      "type": "upload",
+      "etag": "89ecefadce8cbafb9f9ae716975bec08",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603340361/university-reviews-folder/5f910848f9193e3104664b2e.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603340361/university-reviews-folder/5f910848f9193e3104664b2e.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910944f9193e3104664b31"
+  },
+  "name": "Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội",
+  "code": "QHX",
+  "address": "336 Nguyễn Trãi, Thanh Xuân, Hà Nội",
+  "email": "contact@ussh.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Trường ĐHKHXH&NV, ĐHQGHN có sứ mệnh đi đầu trong đào tạo nguồn nhân lực chất lượng cao, trình độ cao; nghiên cứu, sáng tạo và truyền bá tri thức về Khoa học xã hội và nhân văn, phục vụ sự nghiệp xây dựng, bảo vệ Tổ quốc và hội nhập quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f910942f9193e3104664b30"
+    },
+    "filename": "logo-circle.png",
+    "originalFilename": "logo-circle.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "1aa72e69153e8b5fc30d30f88d321fb5",
+      "public_id": "university-reviews-folder/5f910942f9193e3104664b30",
+      "version": 1603340611,
+      "version_id": "2aa7738b837b280a8d95502b19786c11",
+      "signature": "5a81f6a5d32cf877b3c5081bcdc4c88312a55079",
+      "width": 499,
+      "height": 499,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:23:31Z",
+      "tags": [],
+      "bytes": 14641,
+      "type": "upload",
+      "etag": "1aed1242e332e3c74c1818dcf2eef548",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603340611/university-reviews-folder/5f910942f9193e3104664b30.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603340611/university-reviews-folder/5f910942f9193e3104664b30.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9109fdf9193e3104664b33"
+  },
+  "name": "Đại học Kiểm sát Hà Nội",
+  "code": "DKS",
+  "address": "Phường Dương Nội, quận Hà Đông, TP. Hà Nội",
+  "email": "tuyensinh@tks.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Trường Đại học Kiểm sát Hà Nội có sứ mệnh đào tạo nguồn nhân lực có chất lượng cao cho ngành Kiểm sát, góp phần bổ sung nguồn nhân lực cho xã hội; đào tạo, bồi dưỡng đội ngũ kiểm tra viên, kiểm sát viên, điều tra viên, công chức, viên chức đáp ứng yêu cầu cải cách tư pháp, yêu cầu đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f9109fbf9193e3104664b32"
+    },
+    "filename": "PhuhieuTruongDHKiemsatHaNoi.jpg",
+    "originalFilename": "PhuhieuTruongDHKiemsatHaNoi.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "08c2d514f10e08ed413b828c8b742171",
+      "public_id": "university-reviews-folder/5f9109fbf9193e3104664b32",
+      "version": 1603340797,
+      "version_id": "2a93887d80c7642d8f261ae13fffba68",
+      "signature": "0806feab644e76ac4c0f3871aa649fcdd2ebae56",
+      "width": 363,
+      "height": 406,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:26:37Z",
+      "tags": [],
+      "bytes": 68158,
+      "type": "upload",
+      "etag": "1281086d873794c1f12813027532deed",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603340797/university-reviews-folder/5f9109fbf9193e3104664b32.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603340797/university-reviews-folder/5f9109fbf9193e3104664b32.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910aa0f9193e3104664b35"
+  },
+  "name": "Đại học Lâm nghiệp",
+  "code": "LNH",
+  "address": "Thị trấn Xuân Mai, huyện Chương Mỹ, Hà Nội",
+  "email": "vfu@vfu.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mạng: Là trung tâm đào tạo, nghiên cứu khoa học, chuyển giao công nghệ hàng đầu ở Việt Nam về lĩnh vực lâm nghiệp, chế biến lâm sản và phát triển nông thôn, quản lý tài nguyên thiên nhiên và môi trường, phòng tránh và giảm nhẹ thiên tai; mỹ thuật và kiến trúc cảnh quan, kỹ thuật – công nghệ. Cung cấp nguồn nhân lực có chất lượng cao, có ảnh hưởng mang tính quyết định đến nguồn nhân lực lâm nghiệp của cả nước, đóng góp vào sự nghiệp phát triển bền vững của đất nước.",
+  "logo": {
+    "id": {
+      "$oid": "5f910a9ef9193e3104664b34"
+    },
+    "filename": "Logo Test.jpg",
+    "originalFilename": "Logo Test.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "f3df9ba8f1d565eabd266614709804b1",
+      "public_id": "university-reviews-folder/5f910a9ef9193e3104664b34",
+      "version": 1603340960,
+      "version_id": "2341e305bb1054935f0d2b35b388671d",
+      "signature": "dc935bdd55582865a5c7aa9f3d57c793fbc0df6a",
+      "width": 1024,
+      "height": 1028,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:29:20Z",
+      "tags": [],
+      "bytes": 196979,
+      "type": "upload",
+      "etag": "6a8cb52e7c1ca8ac8e63eb464733bc45",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603340960/university-reviews-folder/5f910a9ef9193e3104664b34.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603340960/university-reviews-folder/5f910a9ef9193e3104664b34.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910ba6f9193e3104664b38"
+  },
+  "name": "Đại học văn hóa Hà Nội",
+  "code": "VHH",
+  "address": "Số 418, đường La Thành, phường Ô Chợ Dừa, quận Đống Đa, Hà Nội",
+  "email": "daihocvanhoahanoi@huc.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mệnh: Trường Đại học Văn hóa Hà Nội là nơi đào tạo, nghiên cứu khoa học hàng đầu trong lĩnh vực văn hóa ở Việt Nam. Trường cung cấp nguồn nhân lực chất lượng cao, bồi dưỡng nhân tài, tham gia hoạch định chính sách của Nhà nước về văn hóa và hội nhập quốc tế. ",
+  "logo": {
+    "id": {
+      "$oid": "5f910ba3f9193e3104664b37"
+    },
+    "filename": "DH_Van_hoa_Ha_Noi.jpg",
+    "originalFilename": "DH_Van_hoa_Ha_Noi.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "241ee5f86ba65a6df5f4bea465c3ea8b",
+      "public_id": "university-reviews-folder/5f910ba3f9193e3104664b37",
+      "version": 1603341221,
+      "version_id": "e90ccb8322ab4d4629309eaae1a7c989",
+      "signature": "66c4dc66da2b22cb520f0de9ae1c7282b8b9c246",
+      "width": 480,
+      "height": 461,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:33:41Z",
+      "tags": [],
+      "bytes": 70497,
+      "type": "upload",
+      "etag": "9a64fdd12b165bcc5df45d084bfcae2e",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603341221/university-reviews-folder/5f910ba3f9193e3104664b37.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603341221/university-reviews-folder/5f910ba3f9193e3104664b37.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910c61f9193e3104664b3a"
+  },
+  "name": "Đại học Điều dưỡng Nam Định",
+  "code": "YDD",
+  "address": "257 Hàn Thuyên, thành phố Nam Định, tỉnh Nam Định",
+  "email": "dieuduong@ndun.edu.vn",
+  "zone": "Mien Bac",
+  "introduce": "Sứ mạng: Nâng cao chất lượng nguồn nhân lực Điều dưỡng, Hộ sinh và phát triển khoa học Điều dưỡng, Hộ sinh của Việt Nam.",
+  "logo": {
+    "id": {
+      "$oid": "5f910c5ff9193e3104664b39"
+    },
+    "filename": "Logo_NDUN.png",
+    "originalFilename": "Logo_NDUN.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "a4e14e38927f81148eff3876bc283750",
+      "public_id": "university-reviews-folder/5f910c5ff9193e3104664b39",
+      "version": 1603341409,
+      "version_id": "7e381a115e6eea62ceaa33f9017bb459",
+      "signature": "e6538f22edfbff47741ce09a489d0770e57a2c65",
+      "width": 1544,
+      "height": 1544,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:36:49Z",
+      "tags": [],
+      "bytes": 403816,
+      "type": "upload",
+      "etag": "546805ee1c86301e1757aa61f61df768",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603341409/university-reviews-folder/5f910c5ff9193e3104664b39.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603341409/university-reviews-folder/5f910c5ff9193e3104664b39.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910d1ff9193e3104664b3c"
+  },
+  "name": "Đại học Công nghiệp Vinh",
+  "code": "DCV",
+  "address": "Số 26 - Nguyễn Thái Học - Tp. Vinh - Nghệ An",
+  "email": "congnghiepvinh@gmail.com",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mệnh: Trường Đại học Công nghiệp Vinh là cơ sở giáo dục đại học c ó sứ mệnh cung cấp cho xã hội các sản phẩm đào tạo, nghiên cứu khoa học, tư vấn, ứng dụng và chuyển giao công nghệ có chất lượng cao phục vụ vào sự nghiệp công nghiệp hóa, hiện đại hóa đất nước trong bối cảnh hội nhập thế giới.",
+  "logo": {
+    "id": {
+      "$oid": "5f910d1df9193e3104664b3b"
+    },
+    "filename": "unnamed.png",
+    "originalFilename": "unnamed.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "88a5a1cb6147302292a8ee305caad56d",
+      "public_id": "university-reviews-folder/5f910d1df9193e3104664b3b",
+      "version": 1603341598,
+      "version_id": "d1559461318f2eb1656d9056d3ef4fd5",
+      "signature": "958a762cf3dc9f875fd278557ef4d78d1d017f49",
+      "width": 212,
+      "height": 200,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:39:58Z",
+      "tags": [],
+      "bytes": 65783,
+      "type": "upload",
+      "etag": "ef6df7081e2fe81153c6af49e99073de",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603341598/university-reviews-folder/5f910d1df9193e3104664b3b.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603341598/university-reviews-folder/5f910d1df9193e3104664b3b.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910dc9f9193e3104664b3e"
+  },
+  "name": "Học viện Âm nhạc Huế",
+  "code": "HVA",
+  "address": "Số 01 đường Lê Lợi, phường Vĩnh Ninh, Tp. Huế",
+  "email": "vanphonghocvien@gmail.com",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mệnh: Đào tạo nguồn nhân lực thuộc lĩnh vực âm nhạc ở trình độ trung cấp, cao đẳng, đại học và sau đại học có chất lượng cao; nghiên cứu khoa học, biễu diễn các loại hình âm nhạc, tiếp thu tinh hoa âm nhạc thế giới; phát huy các giá trị di sản âm nhạc đặc trưng nhằm đáp ứng sự nghiệp bảo tồn, phát triển nghệ thuật âm nhạc của khu vực miền Trung – Tây Nguyên và cả nước.",
+  "logo": {
+    "id": {
+      "$oid": "5f910dc7f9193e3104664b3d"
+    },
+    "filename": "tải xuống (1).png",
+    "originalFilename": "tải xuống (1).png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "2a9cb3ea6ebd949b645db0362d20d2be",
+      "public_id": "university-reviews-folder/5f910dc7f9193e3104664b3d",
+      "version": 1603341768,
+      "version_id": "748bfdc2b7c5f66b9fbdc05bff8c4ba8",
+      "signature": "97b77c391db0868a4453920d154d1e321b772b61",
+      "width": 225,
+      "height": 225,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:42:48Z",
+      "tags": [],
+      "bytes": 8990,
+      "type": "upload",
+      "etag": "c451a0bc6dae5b0d5df23cd86785a7c4",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603341768/university-reviews-folder/5f910dc7f9193e3104664b3d.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603341768/university-reviews-folder/5f910dc7f9193e3104664b3d.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f910eedf9193e3104664b40"
+  },
+  "name": "Khoa Du lịch - Đại học Huế",
+  "code": "DHD",
+  "address": "Số 22 Lâm Hoằng, phường Vỹ Dạ, Tp. Huế",
+  "email": "hat@hueuni.edu.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mệnh: Khoa Du lịch – Đại học Huế có sứ mạng đào tạo và cung cấp nguồn nhân lực du lịch chất lượng cao; nghiên cứu và chuyển giao khoa học công nghệ trong lĩnh vực du lịch đáp ứng yêu cầu công nghiệp hóa, hiện đại hóa và hội nhập quốc tế của khu vực MT-TN và cả nước.",
+  "logo": {
+    "id": {
+      "$oid": "5f910ee8f9193e3104664b3f"
+    },
+    "filename": "tải xuống (1).jpg",
+    "originalFilename": "tải xuống (1).jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "fb8b026de1de74d94ed607abd2fa8ead",
+      "public_id": "university-reviews-folder/5f910ee8f9193e3104664b3f",
+      "version": 1603342060,
+      "version_id": "424209c874001719e3541238f44fa7e7",
+      "signature": "bb76293e4f33a03834a1ec21c73178e368a9da48",
+      "width": 226,
+      "height": 223,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T04:47:40Z",
+      "tags": [],
+      "bytes": 13758,
+      "type": "upload",
+      "etag": "ffc61fc9afe11f468680de236dcb0453",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603342060/university-reviews-folder/5f910ee8f9193e3104664b3f.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603342060/university-reviews-folder/5f910ee8f9193e3104664b3f.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9114adf9193e3104664b42"
+  },
+  "name": "Khoa Giáo dục Thể chất - Đại học Huế",
+  "code": "DHC",
+  "address": "Số 52 Hồ Đắc Di, Phường An Cựu, Thành phố Huế",
+  "email": "tuyensinh.khoagdtchue@gmail.com",
+  "zone": "Mien Trung",
+  "introduce": "Xây dựng quy hoạch chiến lược đào tạo, nghiên cứu khoa học, hợp tác về giáo dục thể chất và thể dục thể thao, phối hợp với các tổ chức và cá nhân trong các hoạt động nghiên cứu, đào tạo, bồi dưỡng về lĩnh vực giáo dục thể chất.",
+  "logo": {
+    "id": {
+      "$oid": "5f9114acf9193e3104664b41"
+    },
+    "filename": "unnamed.jpg",
+    "originalFilename": "unnamed.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "0b4494cdd4d35879bdc6259e9776a240",
+      "public_id": "university-reviews-folder/5f9114acf9193e3104664b41",
+      "version": 1603343533,
+      "version_id": "273ea97e6ae470509c704e5f2a03756c",
+      "signature": "63d2395dc49e1e8e2433ba46f5181b8ee547b9db",
+      "width": 280,
+      "height": 280,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T05:12:13Z",
+      "tags": [],
+      "bytes": 19005,
+      "type": "upload",
+      "etag": "336759e24ef95b55d84f785e510bb840",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603343533/university-reviews-folder/5f9114acf9193e3104664b41.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603343533/university-reviews-folder/5f9114acf9193e3104664b41.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f918893f9193e3104664b44"
+  },
+  "name": "Đại học Nha Trang",
+  "code": "TSN",
+  "address": "Số 02 Nguyễn Đình Chiểu - Nha Trang - Khánh Hòa",
+  "email": "tuyensinhdhts@gmail.com",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mạng: Đào tạo nhân lực trình độ cao; nghiên cứu khoa học, chuyển giao công nghệ và cung cấp dịch vụ chuyên môn đa lĩnh vực, trong đó lĩnh vực thủy sản là thế mạnh, đáp ứng yêu cầu phát triển kinh tế - xã hội.",
+  "logo": {
+    "id": {
+      "$oid": "5f918891f9193e3104664b43"
+    },
+    "filename": "unnamed (1).jpg",
+    "originalFilename": "unnamed (1).jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "48e13b10cd1d304e79891362bbccec32",
+      "public_id": "university-reviews-folder/5f918891f9193e3104664b43",
+      "version": 1603373203,
+      "version_id": "1975867d85b865e350326120718a7b1f",
+      "signature": "cb891a99504f320d50609c64c94e4f3aec58bce4",
+      "width": 400,
+      "height": 300,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T13:26:43Z",
+      "tags": [],
+      "bytes": 23963,
+      "type": "upload",
+      "etag": "21c12f63649377eb667af1661a410d6c",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603373203/university-reviews-folder/5f918891f9193e3104664b43.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603373203/university-reviews-folder/5f918891f9193e3104664b43.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f91895ff9193e3104664b46"
+  },
+  "name": "Đại học Nông lâm - Đại học Huế",
+  "code": "DHL",
+  "address": "102 Phùng Hưng, phường Thuận Thành, TP Huế",
+  "email": "admin@huaf.edu.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mạng: Trường Đại học Nông Lâm – Đại học Huế có sứ mạng đào tạo nguồn nhân lực khoa học kỹ thuật chất lượng cao, nghiên cứu khoa học và chuyển giao công nghệ đáp ứng nhu cầu phát triển nông nghiệp, nông thôn cho miền Trung, Tây Nguyên và cả nước theo hướng hội nhập khu vực và quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f91895df9193e3104664b45"
+    },
+    "filename": "dai-hoc-nong-lam-hue-LOGO2.png",
+    "originalFilename": "dai-hoc-nong-lam-hue-LOGO2.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "fc31e45989b726c008737b393ebc9af7",
+      "public_id": "university-reviews-folder/5f91895df9193e3104664b45",
+      "version": 1603373406,
+      "version_id": "b6cde5666fa825d0087dd1e9aab24dc7",
+      "signature": "95707a47b72eca46b7119e23052d0a771634e904",
+      "width": 300,
+      "height": 300,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T13:30:06Z",
+      "tags": [],
+      "bytes": 83606,
+      "type": "upload",
+      "etag": "27fb9ad09cb3545251f2e532e59b1f77",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603373406/university-reviews-folder/5f91895df9193e3104664b45.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603373406/university-reviews-folder/5f91895df9193e3104664b45.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f918a09f9193e3104664b48"
+  },
+  "name": "Đại học Bách khoa - Đại học Đà Nẵng",
+  "code": "DDK",
+  "address": "54 Nguyễn Lương Bằng, phường Hòa Khánh, quận Liên Chiểu, thành phố Đà Nẵng",
+  "email": "tchc.dhbk@dut.udn.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mạng: Là cơ sở giáo dục đại học cung cấp nguồn nhân lực chất lượng cao, có năng lực đổi mới, sáng tạo và khởi nghiệp trong lĩnh vực kỹ thuật – công nghệ; thực hiện nghiên cứu khoa học và chuyển giao công nghệ phục vụ sự phát triển bền vững kinh tế – xã hội của miền Trung – Tây Nguyên, trong nước và quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f918a06f9193e3104664b47"
+    },
+    "filename": "Logo_dhbkdn.jpg",
+    "originalFilename": "Logo_dhbkdn.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "4c4fafcd1c9e88911a60ecee44ea7786",
+      "public_id": "university-reviews-folder/5f918a06f9193e3104664b47",
+      "version": 1603373576,
+      "version_id": "17fc3e0341cda1be299659e51f538d76",
+      "signature": "94653de6fb69c882d7570b159671fee19b92d375",
+      "width": 392,
+      "height": 386,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T13:32:56Z",
+      "tags": [],
+      "bytes": 103447,
+      "type": "upload",
+      "etag": "f3153c7e0c551f207ff118af09c53d38",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603373576/university-reviews-folder/5f918a06f9193e3104664b47.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603373576/university-reviews-folder/5f918a06f9193e3104664b47.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f918cd7f9193e3104664b4a"
+  },
+  "name": "Đại học Kinh tế - Đại học Đà Nẵng",
+  "code": "DDQ",
+  "address": "71, Ngũ Hành Sơn, TP. Đà Nẵng",
+  "email": "kinhtedanang@due.edu.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mệnh: Là một trường đại học định hướng nghiên cứu, chúng tôi tạo dựng môi trường học thuật tiên tiến nhằm thúc đẩy khám phá, ứng dụng, chuyển giao tri thức khoa học kinh tế và quản lý; đảm bảo nền tảng thành công và năng lực học tập suốt đời cho người học; nuôi dưỡng và phát triển tài năng; giải quyết các thách thức kinh tế - xã hội phục vụ sự phát triển thịnh vượng của cộng đồng.",
+  "logo": {
+    "id": {
+      "$oid": "5f918cd5f9193e3104664b49"
+    },
+    "filename": "Logo_Kinh_tế_Đà_Nẵng.jpg",
+    "originalFilename": "Logo_Kinh_tế_Đà_Nẵng.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "61f1986bd5373a65044eb47b3d43f78a",
+      "public_id": "university-reviews-folder/5f918cd5f9193e3104664b49",
+      "version": 1603374295,
+      "version_id": "16d81039789b483d0aeda24a4e6d933a",
+      "signature": "6e8b0cab79f07c994016cda3f49bb07136ef4aa4",
+      "width": 332,
+      "height": 332,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T13:44:55Z",
+      "tags": [],
+      "bytes": 20344,
+      "type": "upload",
+      "etag": "129b48942cef15dbfdc0506fe0868f06",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603374295/university-reviews-folder/5f918cd5f9193e3104664b49.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603374295/university-reviews-folder/5f918cd5f9193e3104664b49.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f918e05f9193e3104664b4c"
+  },
+  "name": "Đại học Ngoại ngữ - Đại học Đà Nẵng",
+  "code": "DDF",
+  "address": "131 Lương Nhữ Hộc, phường Khuê Trung, quận Cẩm Lệ, thành phố Đà Nẵng; 41 Lê Duẩn, phường Hải Châu 1, quận Hải Châu, thành phố Đà Nẵng",
+  "email": "dhnn@ufl.udn.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mạng: Trường Đại học Ngoại ngữ - Đại học Đà Nẵng có sứ mạng đào tạo, nâng cao tri thức về ngôn ngữ, văn hoá nhân loại nhằm phục vụ sự nghiệp xây dựng, phát triển đất nước và hội nhập quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f918e03f9193e3104664b4b"
+    },
+    "filename": "unnamed (1).png",
+    "originalFilename": "unnamed (1).png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "35d6e1cfc1ecce840d621bf039bad6d1",
+      "public_id": "university-reviews-folder/5f918e03f9193e3104664b4b",
+      "version": 1603374597,
+      "version_id": "c111d455bf581b0fbfd0595c49809505",
+      "signature": "c80c8474882b46743a995d16fb30720acda2e848",
+      "width": 196,
+      "height": 194,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T13:49:57Z",
+      "tags": [],
+      "bytes": 48557,
+      "type": "upload",
+      "etag": "e8e7672eb5ce4df19e2ecdfccc664f26",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603374597/university-reviews-folder/5f918e03f9193e3104664b4b.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603374597/university-reviews-folder/5f918e03f9193e3104664b4b.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9191a4f9193e3104664b4e"
+  },
+  "name": "Đại học Quy Nhơn",
+  "code": "DQN",
+  "address": "170 An Dương Vương, Thành phố Quy Nhơn, Tỉnh Bình Định",
+  "email": "dqn@moet.edu.vn - dhqn@qnu.edu.vn",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mệnh: Trường Đại học Quy Nhơn là cơ sở giáo dục đại học đa ngành, đa lĩnh vực có sứ mệnh đào tạo, phát triển nguồn nhân lực chất lượng cao; bồi dưỡng nhân tài; nghiên cứu khoa học, truyền bá tri thức và chuyển giao công nghệ; phục vụ hiệu quả sự phát triển bền vững của đất nước, đặc biệt đối với khu vực Nam Trung Bộ - Tây Nguyên; góp phần thúc đẩy tiến bộ xã hội.",
+  "logo": {
+    "id": {
+      "$oid": "5f9191a2f9193e3104664b4d"
+    },
+    "filename": "tải xuống (2).jpg",
+    "originalFilename": "tải xuống (2).jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "4b56dd090126f9a7df729952cd1a75ed",
+      "public_id": "university-reviews-folder/5f9191a2f9193e3104664b4d",
+      "version": 1603375523,
+      "version_id": "ad254a40a4897d80bae8ff4323b8ed09",
+      "signature": "abc45138f355f1de64626b7c3d11cd48240d89e8",
+      "width": 225,
+      "height": 225,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:05:23Z",
+      "tags": [],
+      "bytes": 17665,
+      "type": "upload",
+      "etag": "e22bbb29463e92588d923b8082257ed0",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603375523/university-reviews-folder/5f9191a2f9193e3104664b4d.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603375523/university-reviews-folder/5f9191a2f9193e3104664b4d.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f919261f9193e3104664b50"
+  },
+  "name": "Đại học Duy Tân",
+  "code": "DDT",
+  "address": "254 Nguyễn Văn Linh, quận Thanh Khê, thành phố Đà Nẵng",
+  "zone": "Mien Trung",
+  "introduce": "Sứ mạng: Đào tạo, Nghiên cứu gắn liền với Khoa học và Công nghệ nhằm tạo ra những Sinh viên và Học viên có lòng yêu nước, có phẩm chất Nhân văn mang đậm Bản sắc Việt Nam, có ý thức sinh hoạt cộng đồng, có sức khỏe, có năng lực và kỹ năng toàn diện, tự tin, năng động, sáng tạo và trở thành công dân khởi nghiệp mang tính toàn cầu.",
+  "logo": {
+    "id": {
+      "$oid": "5f919260f9193e3104664b4f"
+    },
+    "filename": "25-10-2017-15-17-40-30.jpg",
+    "originalFilename": "25-10-2017-15-17-40-30.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "0b1768c77a8eb3c32038d7ee857491b4",
+      "public_id": "university-reviews-folder/5f919260f9193e3104664b4f",
+      "version": 1603375713,
+      "version_id": "f3f96cac5157567db8bfab52ef0803c7",
+      "signature": "858e972a4f1757b474a492c39c3b35487ad4df5e",
+      "width": 400,
+      "height": 252,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:08:33Z",
+      "tags": [],
+      "bytes": 12142,
+      "type": "upload",
+      "etag": "fe7def5693208a77260e91a31477bbd0",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603375713/university-reviews-folder/5f919260f9193e3104664b4f.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603375713/university-reviews-folder/5f919260f9193e3104664b4f.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f919328f9193e3104664b52"
+  },
+  "name": "Đại học Công nghệ Thông tin - ĐH Quốc gia TP.HCM",
+  "code": "QSC",
+  "address": "KP 6, P. Linh Trung, Q. Thủ Đức, TP. Hồ Chí Minh",
+  "email": "info@uit.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng: Trường Đại học Công nghệ Thông tin là một trung tâm đào tạo đại học, sau đại học cung cấp nguồn nhân lực chất lượng cao, nhằm đáp ứng nhu cầu của thị trường lao động và phục vụ cộng đồng. Trường Đại học Công nghệ Thông tin là một trung tâm hàng đầu về nghiên cứu khoa học và chuyển giao công nghệ về công nghệ thông tin – truyền thông và các lĩnh vực liên quan.",
+  "logo": {
+    "id": {
+      "$oid": "5f919326f9193e3104664b51"
+    },
+    "filename": "dai_hoc_cong_nghe_thong_tin_dhqg-hcm.png",
+    "originalFilename": "dai_hoc_cong_nghe_thong_tin_dhqg-hcm.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "a13127950343f8c36e5733483aedac6e",
+      "public_id": "university-reviews-folder/5f919326f9193e3104664b51",
+      "version": 1603375911,
+      "version_id": "3943b7209e5fcc7e90e61bfad110b289",
+      "signature": "7080ae2331eb75d0dd37641b869102e107d42589",
+      "width": 1024,
+      "height": 828,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:11:51Z",
+      "tags": [],
+      "bytes": 35514,
+      "type": "upload",
+      "etag": "f5239fa939a725a8ea06b00076f2956f",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603375911/university-reviews-folder/5f919326f9193e3104664b51.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603375911/university-reviews-folder/5f919326f9193e3104664b51.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9193ebf9193e3104664b54"
+  },
+  "name": "Đại học Công nghiệp Thành phố Hồ Chí Minh ",
+  "code": "IUH",
+  "address": "Số 12 Nguyễn Văn Bảo, phường 4, quận Gò Vấp, thành phố Hồ Chí Minh",
+  "email": "dhcn@iuh.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng: Cung cấp nguồn nhân lực có trình độ chuyên môn cao, có kỹ năng nghề nghiệp tiếp cận với thực tiễn trong các lĩnh vực kỹ thuật, công nghệ, nghiên cứu khoa học và chuyển giao công nghệ nhằm tạo ra giá trị vật chất và tinh thần phục vụ cho sự phát triển kinh tế - xã hội của ngành Công Thương và của đất nước một cách có hiệu quả.",
+  "logo": {
+    "id": {
+      "$oid": "5f9193e9f9193e3104664b53"
+    },
+    "filename": "Logo_IUH.png",
+    "originalFilename": "Logo_IUH.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "b52fb1f9ac925cb0ee527757afa86bbf",
+      "public_id": "university-reviews-folder/5f9193e9f9193e3104664b53",
+      "version": 1603376106,
+      "version_id": "583dbc0f00b3b5ba5d753acbf423378a",
+      "signature": "e3ad1abad0d45c25b595afb3728126093a33ec06",
+      "width": 816,
+      "height": 356,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:15:06Z",
+      "tags": [],
+      "bytes": 78128,
+      "type": "upload",
+      "etag": "c400ea6692a02ddd5be46050556b0cd8",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603376106/university-reviews-folder/5f9193e9f9193e3104664b53.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603376106/university-reviews-folder/5f9193e9f9193e3104664b53.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f919524f9193e3104664b56"
+  },
+  "name": "Đại học Công nghiệp Thực phẩm Thành phố Hồ Chí Minh",
+  "code": "DCT",
+  "address": "140 Lê Trọng Tấn, P. Tây Thạnh, Q. Tân Phú, Tp. HCM",
+  "email": "info@hufi.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng: Trường Đại học Công nghiệp Thực phẩm TP. Hồ Chí Minh là cơ sở giáo dục đại học đào tạo đa lĩnh vực, đa ngành, đa trình độ, có thế mạnh trong lĩnh vực khoa học và công nghệ thực phẩm, Trường có sứ mạng: 1. Đào tạo nhân lực có đạo đức, tri thức và kỹ năng đáp ứng yêu cầu của xã hội; 2. Đẩy mạnh nghiên cứu khoa học, chuyển giao công nghệ và phát triển dịch vụ; 3. Thực hiện trách nhiệm xã hội, phục vụ cộng đồng và hội nhập quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f919521f9193e3104664b55"
+    },
+    "filename": "untitled.png",
+    "originalFilename": "untitled.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "048371026d4d1116a4ce441403ce27e5",
+      "public_id": "university-reviews-folder/5f919521f9193e3104664b55",
+      "version": 1603376419,
+      "version_id": "77251dd02e2018e4423c635ccc855345",
+      "signature": "3b7eeb34905c0a00d63349666acc06059fca9095",
+      "width": 1548,
+      "height": 1528,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:20:19Z",
+      "tags": [],
+      "bytes": 358346,
+      "type": "upload",
+      "etag": "03d643a0abbcd4683cf01953b9b88892",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603376419/university-reviews-folder/5f919521f9193e3104664b55.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603376419/university-reviews-folder/5f919521f9193e3104664b55.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f919607f9193e3104664b58"
+  },
+  "name": "Đại học Giao thông vận tải Thành phố Hồ Chí Minh",
+  "code": "GTS",
+  "address": "Số 2, đường Võ Oanh, P.25, Q. Bình Thạnh, Thành Phố Hồ Chí Minh",
+  "email": "ut-hcmc@ut.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mệnh: Trường Đại học Giao thông vận tải thành phố Hồ Chí Minh đào tạo đội ngũ cán bộ khoa học kỹ thuật, cán bộ quản lý trình độ đại học và sau đại học; Tổ chức nghiên cứu khoa học, chuyển giao công nghệ về giao thông vận tải và các lĩnh vực liên quan phục vụ cho sự nghiệp Công nghiệp hóa – Hiện đại hóa đất nước và hội nhập quốc tế.",
+  "logo": {
+    "id": {
+      "$oid": "5f919604f9193e3104664b57"
+    },
+    "filename": "7-11 Nhan dien thuong hieu.jpg",
+    "originalFilename": "7-11 Nhan dien thuong hieu.jpg",
+    "mimetype": "image/jpeg",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "e6fad03007fd4854ad601aa7fa899f4a",
+      "public_id": "university-reviews-folder/5f919604f9193e3104664b57",
+      "version": 1603376646,
+      "version_id": "14053ae6c59a082e1b1ae89c2a84c731",
+      "signature": "b9c079cc4a665f1519270442c3963cd1caa62dc1",
+      "width": 450,
+      "height": 420,
+      "format": "jpg",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:24:06Z",
+      "tags": [],
+      "bytes": 58916,
+      "type": "upload",
+      "etag": "328428f725a7cf0c237c37602e5a9b43",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603376646/university-reviews-folder/5f919604f9193e3104664b57.jpg",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603376646/university-reviews-folder/5f919604f9193e3104664b57.jpg",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f91972ff9193e3104664b5a"
+  },
+  "name": "Đại học Khoa học Tự nhiên - ĐHQG TP Hồ Chí Minh",
+  "code": "QST",
+  "address": "227 đường Nguyễn Văn Cừ, phường 4, quận 5, Thành phố Hồ Chí Minh",
+  "email": "webmaster@hcmut.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng: Trường ĐH KHTN là trung tâm đào tạo đại học, sau đại học, cung cấp nguồn nhân lực, đội ngũ chuyên gia trình độ cao trong các lĩnh vực khoa học cơ bản, khoa học liên ngành, khoa học công nghệ mũi nhọn, có năng lực sáng tạo, làm việc trong môi trường cạnh tranh quốc tế; là nơi thực hiện những nghiên cứu khoa học đỉnh cao tạo ra các sản phẩm tinh hoa đáp ứng nhu cầu phát triển KHCN và yêu cầu phát triển kinh tế - xã hội ngày càng cao của đất nước, phù hợp với xu thế phát triển thế giới.",
+  "logo": {
+    "id": {
+      "$oid": "5f91972df9193e3104664b59"
+    },
+    "filename": "tải xuống (2).png",
+    "originalFilename": "tải xuống (2).png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "6f650556743f75f0cb70b0c4ff2167e7",
+      "public_id": "university-reviews-folder/5f91972df9193e3104664b59",
+      "version": 1603376943,
+      "version_id": "0fe37c52b3f36a1a790430096ec7cb56",
+      "signature": "aa3c746ffa5e653e9b16420b09f05624f8633e00",
+      "width": 225,
+      "height": 225,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:29:03Z",
+      "tags": [],
+      "bytes": 10402,
+      "type": "upload",
+      "etag": "e62227c07a1e9e81a0144f7351b55fa4",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603376943/university-reviews-folder/5f91972df9193e3104664b59.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603376943/university-reviews-folder/5f91972df9193e3104664b59.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f91992bf9193e3104664b5c"
+  },
+  "name": "Đại học Khoa học Xã hội và Nhân văn - ĐHQG TP.HCM",
+  "code": "QSX",
+  "address": "Số 10-12 Đinh Tiên Hoàng, phường Bến Nghé, quận 1, TP. HCM",
+  "email": "hanhchinh@hcmussh.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Tầm nhìn 2030: Trường Đại học Khoa học Xã hội và Nhân văn là trường đại học nghiên cứu trong hệ thống ĐHQG-HCM, nằm trong tốp đầu trong lĩnh vực khoa học xã hội và nhân văn của Châu Á. Mục tiêu: Có những đột phá chiến lược về phát triển nguồn lực, về chất lượng đào tạo, nghiên cứu khoa học và xây dựng môi trường văn hoá đại học.",
+  "logo": {
+    "id": {
+      "$oid": "5f919928f9193e3104664b5b"
+    },
+    "filename": "unnamed (2).png",
+    "originalFilename": "unnamed (2).png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "44705e9f9f6f544e95dfb716f355e7d5",
+      "public_id": "university-reviews-folder/5f919928f9193e3104664b5b",
+      "version": 1603377450,
+      "version_id": "20ffb51dfd70701894927552730ffa8d",
+      "signature": "e6aa7c07c30d70ef170bdea30753748379c85f3d",
+      "width": 512,
+      "height": 354,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:37:30Z",
+      "tags": [],
+      "bytes": 104113,
+      "type": "upload",
+      "etag": "ce3f4416c1b9f005a64bd24dee8db200",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603377450/university-reviews-folder/5f919928f9193e3104664b5b.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603377450/university-reviews-folder/5f919928f9193e3104664b5b.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f919a0ef9193e3104664b5e"
+  },
+  "name": "Đại học Kiến trúc Thành phố Hồ Chí Minh",
+  "code": "KTS",
+  "address": "Số 196 Pasteur - phường 6 - quận 3 - thành phố Hồ Chí Minh",
+  "email": "phongdaotao.kts@moet.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mệnh: Trường Đại học Kiến trúc Thành phố Hồ Chí Minh đào tạo nguồn nhân lực chất lượng cao theo hướng nghiên cứu, ứng dụng đáp ứng nhu cầu xã hội và hội nhập quốc tế trong lĩnh vực quy hoạch - kiến trúc, mỹ thuật ứng dụng. ",
+  "logo": {
+    "id": {
+      "$oid": "5f919a0cf9193e3104664b5d"
+    },
+    "filename": "unnamed (3).png",
+    "originalFilename": "unnamed (3).png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "a2ba5e2c4524237d508ab86545462614",
+      "public_id": "university-reviews-folder/5f919a0cf9193e3104664b5d",
+      "version": 1603377678,
+      "version_id": "0dc3f86797f1741c185c812e624ba6a0",
+      "signature": "d1f8332b3bb3207b5e05b5f87300cb849e470f56",
+      "width": 424,
+      "height": 512,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:41:18Z",
+      "tags": [],
+      "bytes": 19442,
+      "type": "upload",
+      "etag": "8ad610fb56baff3ccac88bb6d964d4e4",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603377678/university-reviews-folder/5f919a0cf9193e3104664b5d.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603377678/university-reviews-folder/5f919a0cf9193e3104664b5d.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f919ab1f9193e3104664b60"
+  },
+  "name": "Đại học Mở Thành phố Hồ Chí Minh",
+  "code": "MBS",
+  "address": "97 Võ Văn Tần, P. 6, Q. 3, TP. Hồ Chí Minh.",
+  "email": "ou@ou.edu.vn",
+  "zone": "Mien Nam",
+  "introduce": "Sứ mạng của Trường Đại học Mở Thành phố Hồ Chí Minh là đóng góp và nâng cao tri thức cho cộng đồng bằng các phương thức linh hoạt và thuận tiện nhất.",
+  "logo": {
+    "id": {
+      "$oid": "5f919aaff9193e3104664b5f"
+    },
+    "filename": "Logo_Đại_học_Mở_TPHCM.png",
+    "originalFilename": "Logo_Đại_học_Mở_TPHCM.png",
+    "mimetype": "image/png",
+    "encoding": "7bit",
+    "_meta": {
+      "asset_id": "cb89fa3a1ccc382045e5666dc7e02774",
+      "public_id": "university-reviews-folder/5f919aaff9193e3104664b5f",
+      "version": 1603377841,
+      "version_id": "3b08b72fc91483734aef6f64d3dbbafe",
+      "signature": "407b1345da67238bfb6ed30d3ef3ecac7a0e13bc",
+      "width": 1000,
+      "height": 1000,
+      "format": "png",
+      "resource_type": "image",
+      "created_at": "2020-10-22T14:44:01Z",
+      "tags": [],
+      "bytes": 134433,
+      "type": "upload",
+      "etag": "31796cbe9da5ea8f703ccb29c69c5614",
+      "placeholder": false,
+      "url": "http://res.cloudinary.com/minhtoi/image/upload/v1603377841/university-reviews-folder/5f919aaff9193e3104664b5f.png",
+      "secure_url": "https://res.cloudinary.com/minhtoi/image/upload/v1603377841/university-reviews-folder/5f919aaff9193e3104664b5f.png",
+      "original_filename": "file"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbf6e6ce8c2841a306209dc"
+  },
+  "name": "kjk",
+  "code": "jijij",
+  "__v": 0
+}]

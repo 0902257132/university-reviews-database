@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "5f88db8259bd09252847c8b7"
+  },
+  "email": "admin@gmail.com",
+  "password": "$2a$10$EEj8PsVW/J/Kr0Yu2aMs5umjuQQHZqDghLorGnRnEufevRHegmiBO",
+  "username": "admin",
+  "isAdmin": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f88dbd459bd09252847c8b8"
+  },
+  "email": "bku@gmail.com",
+  "password": "$2a$10$FAmITyd/mcMX2cc2keg7ru55gKzLw3lbWNBDLpM/jyTydAIZzHHh6",
+  "username": "Admin BKU 1",
+  "__v": 0,
+  "isAdmin": false
+},{
+  "_id": {
+    "$oid": "5fa3704d7b727f0f30d5d6a2"
+  },
+  "email": "thien@gmail.com",
+  "password": null,
+  "username": "Hữu Thiện",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa370e17b727f0f30d5d6a5"
+  },
+  "email": "takuda@gmail.com",
+  "password": null,
+  "username": "Tokuda Osama Saga",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa7aae2f776ce26d404c6b3"
+  },
+  "email": "thuong@gmail.com",
+  "password": null,
+  "username": "Quý Thương",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa7aafff776ce26d404c6b4"
+  },
+  "email": "sang@gmail.com",
+  "password": null,
+  "username": "Hồ Xuân Sang",
+  "isAdmin": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "email": "toi@gmail.com",
+  "username": "Tới Nguyễn",
+  "isAdmin": false,
+  "__v": 0
+}]

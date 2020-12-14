@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "5fa7a86ff776ce26d404c6b0"
+  },
+  "content": "Me too",
+  "user": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "topic": {
+    "$oid": "5fa6b8b9ea02542f18fdf4ce"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa7aa64f776ce26d404c6b1"
+  },
+  "content": "@Thien vào comment kìa =))",
+  "user": {
+    "$oid": "5fa7aae2f776ce26d404c6b3"
+  },
+  "__v": 0,
+  "topic": {
+    "$oid": "5fa6b45dea02542f18fdf4ca"
+  }
+},{
+  "_id": {
+    "$oid": "5fa7b1c3f776ce26d404c6bd"
+  },
+  "content": "Không biết nói chi luôn =))",
+  "user": {
+    "$oid": "5fa7aafff776ce26d404c6b4"
+  },
+  "topic": {
+    "$oid": "5fa6b45dea02542f18fdf4ca"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6d8b66f19be22806f4f47"
+  },
+  "content": "Không nhập dữ liệu rác vào trước khi demo, nhận xét đúng với chủ để của topic nha mọi người",
+  "user": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "topic": {
+    "$oid": "5fa6b45dea02542f18fdf4ca"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6dbe96f19be22806f4f49"
+  },
+  "content": "hmm",
+  "user": {
+    "$oid": "5fa7aae2f776ce26d404c6b3"
+  },
+  "topic": {
+    "$oid": "5fa6b8b9ea02542f18fdf4ce"
+  },
+  "__v": 0
+}]

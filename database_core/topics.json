@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "5fa6b45dea02542f18fdf4ca"
+  },
+  "title": "CÁC HOẠT ĐỘNG VUI CHƠI ",
+  "content": "Mọi người thường nghĩ rằng trường của ng&agrave;nh y sẽ kh&aacute; l&agrave; kh&ocirc; khan &iacute;t c&aacute;c hoạt động vui chơi, giải tr&iacute;,... Kh&ocirc;ng mọi người đ&atilde; lầm rồi đ&oacute; nh&aacute;, bước ch&acirc;n v&agrave;o trường đại học kỹ thuật y dược Đ&agrave; Nẵng sẽ thấy sự năng động của sinh vi&ecirc;n tại đ&acirc;y, rất rất nhiều c&aacute;c chương tr&igrave;nh được tổ chức với sự tham gia của h&agrave;ng ng&agrave;n sinh vi&ecirc;n trong một kh&ocirc;ng kh&iacute; v&ocirc; c&ugrave;ng n&aacute;o nhiệt. M&igrave;nh hiện l&agrave; sinh vi&ecirc;n năm cuối tại trường v&agrave; cảm thấy thật may mắn khi chọn đ&uacute;ng được ng&agrave;nh m&igrave;nh th&iacute;ch v&agrave; c&oacute; m&ocirc;i trường học tập lu&ocirc;n vui vẻ thoải m&aacute;i. C&aacute;c b&eacute; t&acirc;n sinh vi&ecirc;n h&atilde;y cứ tự tin để v&agrave;o trường m&agrave; kh&ocirc;ng cần &aacute;p lực g&igrave; nha.",
+  "date_utc": {
+    "$date": "2020-12-03T00:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa3704d7b727f0f30d5d6a2"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "comments": {
+    "$oid": "5fa6b50dea02542f18fdf4cc"
+  },
+  "tags": "Vui chơi"
+},{
+  "_id": {
+    "$oid": "5fa6b6abea02542f18fdf4cd"
+  },
+  "title": "MÙA ĐÔNG GIỮA CÁI MÙA HÈ",
+  "content": "Cuối c&ugrave;ng sau 2 năm vật v&atilde; tu&ocirc;i cũng cảm nhận được c&aacute;i m&aacute;t từ m&aacute;y lạnh rồi mọi người ơi. M&ugrave;a h&egrave; n&agrave;y c&oacute; lẽ dọn nh&agrave; l&ecirc;n trường ở được kh&ocirc;ng mọi người nhỉ? Đ&ugrave;a vui th&ocirc;i, sinh vi&ecirc;n của kỹ thuật y dược lu&ocirc;n tự h&agrave;o v&igrave; những điều kiện trường cố gắng cho sinh vi&ecirc;n, theo &yacute; kiến ri&ecirc;ng bản th&acirc;n t&ocirc;i, t&ocirc;i thấy việc được thực h&agrave;nh ở trường v&agrave; được trường tạo điều kiện đi thực tập gi&uacute;p cho sinh vi&ecirc;n c&oacute; th&ecirc;m kỹ năng thực tế rất thuận lợi cho việc tốt nghiệp xin việc sau n&agrave;y. Trường lu&ocirc;n lắng nghe c&aacute;c bạn sinh vi&ecirc;n &yacute; kiến để n&acirc;ng cao chất lượng.",
+  "date_utc": {
+    "$date": "2020-11-27T00:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "tags": "Vat chat"
+},{
+  "_id": {
+    "$oid": "5fa6b8b9ea02542f18fdf4ce"
+  },
+  "title": "STORY FOR CARS",
+  "content": "I really don't know how to get a comfortable parking space, everyone. In our school, the parking area is quite crowded to reserve a place to struggle, so the school understands the hearts of students, but every day to learn to find a parking space, it is too late. In addition, if you wish to have a roof during the rainy season, every day you accidentally raise your helmet, there is an \"ocean\" inside the hat.",
+  "date_utc": {
+    "$date": "2020-10-20T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa370e17b727f0f30d5d6a5"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "tags": "story"
+},{
+  "_id": {
+    "$oid": "5fa6bb96ea02542f18fdf4cf"
+  },
+  "title": "SỰ DỄ THƯƠNG CỦA CÁC ANH CHI BÊN ĐOÀN TRƯỜNG",
+  "content": "Em l&agrave; một t&acirc;n sinh vi&ecirc;n vừa mới v&agrave;o trường v&agrave; thật sự e rất ngỡ ng&agrave;ng với sự th&acirc;n thiện của c&aacute;c anh chị b&ecirc;n đo&agrave;n của trường. Mọi người rất ho&agrave; đồng vui vẻ v&agrave; nhiệt t&igrave;nh nữa, hỗ trợ tận t&igrave;nh cho con b&eacute; ch&acirc;n ước ch&acirc;n r&aacute;o từ qu&ecirc; ra để t&igrave;m trọ v&agrave; l&agrave;m mọi thủ tục nhập học. Thật sự cảm ơn c&aacute;c anh chị ấy rất nhiều.",
+  "date_utc": {
+    "$date": "2020-08-09T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa7aafff776ce26d404c6b4"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "tags": "Crush <3 "
+},{
+  "_id": {
+    "$oid": "5fa6bf3bea02542f18fdf4d0"
+  },
+  "title": "CON \"TRÂU\" BÁCH KHOA",
+  "content": "Nếu x&aacute;c định học b&aacute;ch khoa th&igrave; c&aacute;c em n&ecirc;n chuẩn một t&acirc;m l&yacute; sẵn s&agrave;ng bởi khi đặt ch&acirc;n v&agrave;o ng&ocirc;i trường b&aacute;ch&nbsp; khoa th&igrave; c&aacute;c em sẽ chấp nhận từ bỏ những th&uacute; vui ham chơi hay n&oacute;i c&aacute;ch kh&aacute;c như anh chị hay bảo với nhau l&agrave; ch&uacute;ng ta l&agrave;m g&igrave; c&oacute; thanh xu&acirc;n. Để kh&ocirc;ng phải tốn tiền học lại, kh&ocirc;ng mất thời gian trả nợ m&ocirc;n th&igrave; chỉ c&oacute; học học v&agrave; học th&ocirc;i c&aacute;c em ạ.&nbsp; Trai BK cũng ch&iacute;nh v&igrave; vậy m&agrave; hay ế đ&oacute; c&aacute;c e ơi thời gian học m&agrave; kh&ocirc;ng c&oacute; nổi thời gian chăm ch&uacute;t bản th&acirc;n. Nhưng b&ugrave; lại c&aacute;c em sẽ c&oacute; được nền tảng vững chắc bước ra đời m&agrave; kh&ocirc;ng bố con thằng n&agrave;o nha.",
+  "date_utc": {
+    "$date": "2020-09-09T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa3704d7b727f0f30d5d6a2"
+  },
+  "university": {
+    "$oid": "5f904c69f9193e3104664abf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa6c472ea02542f18fdf4d1"
+  },
+  "title": "SỰ THÀNH CÔNG CỦA CỰU SINH VIÊN!",
+  "content": "<p class=\"page-header\">Ph&oacute; chủ tịch FPT Software &ndash; cựu sinh vi&ecirc;n To&aacute;n Tin ứng dụng, anh Nguyễn Ho&agrave;ng Trung l&agrave; cựu sinh vi&ecirc;n lớp To&aacute;n ứng dụng (ng&agrave;nh To&aacute;n Tin ứng dụng) của Khoa To&aacute;n Tin ứng dụng, giờ l&agrave; Viện To&aacute;n ứng dụng v&agrave; Tin học Đại học B&aacute;ch Khoa H&agrave; Nội. Điều khiến anh kh&ocirc;ng thể qu&ecirc;n được ch&iacute;nh l&agrave; sự ấm &aacute;p v&agrave; th&acirc;n t&igrave;nh giữa thầy v&agrave; tr&ograve; trong Viện. &ldquo;Quan hệ giữa c&aacute;c thầy c&ocirc; v&agrave; sinh vi&ecirc;n rất chặt chẽ v&agrave; th&acirc;n thiết. Cuối tuần, cuối năm tới nh&agrave; thầy c&ocirc; ăn uống thoải m&aacute;i. Những l&uacute;c ấy, c&aacute;c thầy lu&ocirc;n mang rượu ngoại ra tiếp sinh vi&ecirc;n chứ chả nhận qu&agrave; bao giờ&rdquo;, anh Trung chia sẻ. &nbsp;&ldquo;Ng&agrave;y đ&oacute; m&aacute;y t&iacute;nh c&ograve;n hiếm, lại được c&ocirc; chủ nhiệm văn ph&ograve;ng khoa tin tưởng giao cho cả ch&igrave;a kho&aacute; ph&ograve;ng m&aacute;y, n&ecirc;n anh em l&ecirc;n đ&oacute; cả ng&agrave;y. Nếu c&oacute; tiết thực tập cũng vẫn l&agrave; những người ấy, n&ecirc;n tự dưng lại th&agrave;nh c&oacute; m&aacute;y t&iacute;nh c&aacute; nh&acirc;n. Ai cũng coi khoa như nh&agrave;, ở trường từ s&aacute;ng đến tối&rdquo;.</p>",
+  "date_utc": {
+    "$date": "2020-11-27T00:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "university": {
+    "$oid": "5f904c69f9193e3104664abf"
+  },
+  "__v": 0,
+  "tags": null
+},{
+  "_id": {
+    "$oid": "5fa6c562ea02542f18fdf4d2"
+  },
+  "title": "There is NO COMPETITION REGISTRATION WAR",
+  "content": "Everyone in a student's life has to go through the battle of registering courses (course registration) such as winning a beautiful class, the teachers they want to teach or simply studying in the same class with their friends. I met a lot of disappointment when I did not quickly register but missed that class, in fact it was a story about other universities but in Ulaw did not. The training program at Ho Chi Minh City University of Law is compiled separately. The students will learn the theory and discuss the discussion, the discussion is divided into small classes to study. Here, there is no passing education, no credit registration, but only study the part of the faculty which has the rules of jokes like: Students just go to school and everything has the school to take care of. Around the third year of university, students can register for the electives they like, but the condition is enough to open the class.",
+  "date_utc": {
+    "$date": "2020-03-09T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa370e17b727f0f30d5d6a5"
+  },
+  "university": {
+    "$oid": "5f90f1f2f9193e3104664b1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fa6c5eeea02542f18fdf4d3"
+  },
+  "title": " WHERE THE PHOTO BRINGS THE TEST",
+  "content": "Do you believe Ulaw's semester exams run from the end of the winter of the year to the next spring? It's just fun to say because the school schedules the semester exams of students. Preparing to review so that only taking the semester exam is a \"long term resistance\" journey. The school has created conditions for students to review like that, of course, guarding the exam is super difficult. Let me describe \"mist\" for you to somewhat imagine the difficulty that I want to talk about. A 4-5 supervisor exam room looks at the exam you can imagine how many pairs of eyes can stop when you need to ask questions. Do not dream of looking horizontally, never intend to cheat on copying documents into the Law to pass the eyes of the examiner because each law book when you bring it into the examination room will be carefully examined by the examiner. The supervisor in the room is not enough, but there is also a corridor supervisor. The teachers will go around observing so your task is to complete your exam well, if you do not study well, then prepare for the study again.",
+  "date_utc": {
+    "$date": "2020-05-06T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa370e17b727f0f30d5d6a5"
+  },
+  "university": {
+    "$oid": "5f90f1f2f9193e3104664b1c"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,353 @@
+[{
+  "_id": {
+    "$oid": "5f8c4982ff1c802df074e7f4"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b35720cc392eb89ce8b7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c4936ff1c802df074e7e7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4982ff1c802df074e7f6"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b35720cc392eb89ce8b7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c496cff1c802df074e7eb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4982ff1c802df074e7f3"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b35720cc392eb89ce8b7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c491dff1c802df074e7e5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4982ff1c802df074e7f5"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b35720cc392eb89ce8b7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c4955ff1c802df074e7e9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4982ff1c802df074e7f7"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b35720cc392eb89ce8b7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c4980ff1c802df074e7ed"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4a10ff1c802df074e801"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b5ac20cc392eb89ce8ba"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c491dff1c802df074e7e5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4a10ff1c802df074e802"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f89b5ac20cc392eb89ce8ba"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c496cff1c802df074e7eb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90548af9193e3104664aef"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5f905348f9193e3104664adc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90548af9193e3104664af0"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5f905385f9193e3104664ade"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90548af9193e3104664af1"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9053c3f9193e3104664ae0"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90548af9193e3104664aee"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5f905313f9193e3104664ada"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90548af9193e3104664af2"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90541df9193e3104664ae2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90548af9193e3104664af3"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5f905487f9193e3104664ae4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b14"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f063f9193e3104664aff"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b15"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f095f9193e3104664b01"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b13"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f046f9193e3104664afd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b16"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f0b2f9193e3104664b03"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b17"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f0faf9193e3104664b05"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b18"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f189f9193e3104664b07"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b19"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f1b3f9193e3104664b09"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f1ebf9193e3104664b1a"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90f1ebf9193e3104664b0c"
+  },
+  "Galery_right_id": {
+    "$oid": "5f90f1e0f9193e3104664b0b"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b8b7e442f266ce35129"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9a44f47e442f266ce3510a"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b8b7e442f266ce3512c"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9a45677e442f266ce35110"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b8b7e442f266ce3512b"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9a45427e442f266ce3510e"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b8b7e442f266ce3512d"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9a459b7e442f266ce35112"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b8b7e442f266ce3512a"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9a45217e442f266ce3510c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b8b7e442f266ce3512e"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f9a45bd7e442f266ce35114"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fae99123191081928ebb5d0"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f904c47f9193e3104664ab7"
+  },
+  "Galery_right_id": {
+    "$oid": "5f8c491dff1c802df074e7e5"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6e8aebc91770b40e9cfbf"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5fd6e868bc91770b40e9cfb6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6e8aebc91770b40e9cfc0"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5fd6e877bc91770b40e9cfb8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6e8aebc91770b40e9cfc1"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5fd6e893bc91770b40e9cfbc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd6e8aebc91770b40e9cfc2"
+  },
+  "DetailUniversity_left_id": {
+    "$oid": "5f90548af9193e3104664ae5"
+  },
+  "Galery_right_id": {
+    "$oid": "5fd6e8a6bc91770b40e9cfbe"
+  },
+  "__v": 0
+}]

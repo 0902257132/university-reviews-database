@@ -1,0 +1,397 @@
+[{
+  "_id": {
+    "$oid": "5f8c47bdff1c802df074e7d4"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c47bdff1c802df074e7d3"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c479cff1c802df074e7d1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c47bdff1c802df074e7d5"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c47bdff1c802df074e7d3"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c47b8ff1c802df074e7d2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4810ff1c802df074e7da"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c4810ff1c802df074e7d8"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c480eff1c802df074e7d7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c4810ff1c802df074e7d9"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c4810ff1c802df074e7d8"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c47fcff1c802df074e7d6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c484dff1c802df074e7e1"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c484dff1c802df074e7de"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c484cff1c802df074e7dd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c484dff1c802df074e7e0"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c484dff1c802df074e7de"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c4841ff1c802df074e7dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c484dff1c802df074e7df"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c484dff1c802df074e7de"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c482cff1c802df074e7db"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c49fdff1c802df074e7fe"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c49fdff1c802df074e7fc"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c49ebff1c802df074e7f9"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c49fdff1c802df074e800"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c49fdff1c802df074e7fc"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c49fbff1c802df074e7fb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c49fdff1c802df074e7fd"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c49fdff1c802df074e7fc"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c49deff1c802df074e7f8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903c4ef9193e3104664a8e"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903c4ef9193e3104664a8c"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903b7cf9193e3104664a88"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903c4ef9193e3104664a8d"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903c4ef9193e3104664a8c"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903af8f9193e3104664a87"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903c4ef9193e3104664a8f"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903c4ef9193e3104664a8c"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903bcef9193e3104664a89"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664a9b"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903eb5f9193e3104664a92"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664a9e"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903f39f9193e3104664a96"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664a9d"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903efcf9193e3104664a94"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664a9f"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903f58f9193e3104664a97"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664aa0"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903f9ef9193e3104664a98"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664a9c"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903ed6f9193e3104664a93"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664aa1"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903fd5f9193e3104664a99"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9040c1f9193e3104664aa6"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f9040c1f9193e3104664aa4"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904093f9193e3104664aa3"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9040c1f9193e3104664aa5"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f9040c1f9193e3104664aa4"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904071f9193e3104664aa2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9041c7f9193e3104664aab"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f9041c7f9193e3104664aa9"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f9041c5f9193e3104664aa8"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9041c7f9193e3104664aaa"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f9041c7f9193e3104664aa9"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904127f9193e3104664aa7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f904888f9193e3104664aad"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f904888f9193e3104664aac"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c49fbff1c802df074e7fb"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9048fdf9193e3104664ab0"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f9048fdf9193e3104664aaf"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f9048f7f9193e3104664aae"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f904991f9193e3104664ab3"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f904991f9193e3104664ab2"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f90498ff9193e3104664ab1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f904aa9f9193e3104664ab6"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f904aa9f9193e3104664ab5"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904aa7f9193e3104664ab4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f904f93f9193e3104664ac3"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f904f93f9193e3104664ac2"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904f8ff9193e3104664ac1"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f904fb7f9193e3104664ac6"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f904fb7f9193e3104664ac5"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904fb4f9193e3104664ac4"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f904ff0f9193e3104664ac9"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f904feff9193e3104664ac8"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904fedf9193e3104664ac7"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f905008f9193e3104664acc"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f905008f9193e3104664acb"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f905006f9193e3104664aca"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90507bf9193e3104664ad3"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f90507bf9193e3104664ad0"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f905076f9193e3104664acf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90507bf9193e3104664ad2"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f90507bf9193e3104664ad0"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f905063f9193e3104664ace"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90507bf9193e3104664ad1"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f90507bf9193e3104664ad0"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f90504df9193e3104664acd"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90eb49f9193e3104664af8"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f90eb49f9193e3104664af7"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f90eb47f9193e3104664af6"
+  },
+  "__v": 0
+}]

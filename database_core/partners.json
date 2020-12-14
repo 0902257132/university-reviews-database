@@ -1,0 +1,163 @@
+[{
+  "_id": {
+    "$oid": "5f8c4897ff1c802df074e7e2"
+  },
+  "name": "Đại học Harvard ",
+  "state": "US",
+  "description": "Liên kết chương trình trao đổi sinh viên, du học tại chỗ 1 +3 ",
+  "link": "https://www.harvard.edu/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c48e0ff1c802df074e7e3"
+  },
+  "name": "Công ty MGM",
+  "state": "Trong nước",
+  "description": "Cung cấp kỹ sư phần mềm chất lượng cao",
+  "link": "facebook.com",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f905137f9193e3104664ad4"
+  },
+  "name": "Trường Jonkoping ",
+  "state": "Thuỵ Điển",
+  "description": "Liên kết quốc tế nhằm bổ sung các nguồn lực cho trường.",
+  "link": "http://duhocblueocean.vn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9051a8f9193e3104664ad5"
+  },
+  "name": "Đại học Tartu ",
+  "state": "Estonia",
+  "description": "Liên kết quốc tế nâng cao năng lực giảng viên giảng dạy tại trường.",
+  "link": "https://www.masterstudies.vn/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90520ef9193e3104664ad6"
+  },
+  "name": "Đại học Siena ",
+  "state": "Ý",
+  "description": "Liên kết quốc nhằm nâng cao kiến thức kỹ năng cho sinh viên tại trường",
+  "link": "https://www.masterstudies.vn/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90ed64f9193e3104664af9"
+  },
+  "name": "VIAC",
+  "state": "Viet Nam",
+  "description": "Phương thức giải quyết tranh chấp bằng trọng tài trong bối cảnh hội nhập kinh tế quốc tế.",
+  "link": "https://www.viac.vn/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90efbbf9193e3104664afa"
+  },
+  "name": "Trường đại học Tài chính - Kế toán",
+  "state": "Viet Nam",
+  "description": "Đơn vị liên kết",
+  "link": "http://tckt.edu.vn/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f90f01ff9193e3104664afb"
+  },
+  "name": "Trường Chính trị tỉnh Bình Phước",
+  "state": "Viet Nam",
+  "description": "Đơn vị liên kết",
+  "link": "http://truongchinhtri.edu.vn",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a47ab7e442f266ce35115"
+  },
+  "name": "TEIKYO UNIVERSITY",
+  "state": "Nhật Bản",
+  "description": "Đối tác liên kết tại các trường đại học ở khu vực Châu Á",
+  "link": "https://www.teikyo-u.ac.jp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a480c7e442f266ce35116"
+  },
+  "name": "RITSUMEIKAN UNIVERSITY",
+  "state": "Nhật Bản",
+  "description": "Đối tác liên kết các trường đại học tại khu vực Châu Á",
+  "link": "http://en.ritsumei.ac.jp/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a48727e442f266ce35117"
+  },
+  "name": "GIFU UNIVERSITY",
+  "state": "Nhật Bản",
+  "description": "Đối tác liên kết tại khu vực Châu Á",
+  "link": "https://www.gifu-u.ac.jp/en/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a48d17e442f266ce35118"
+  },
+  "name": "VIA UNIVERSITY COLLEGE",
+  "state": "Đan Mạch",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://en.via.dk/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a49097e442f266ce35119"
+  },
+  "name": "LAHTI POLYTECHNIC",
+  "state": "Phần Lan",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://www.university-directory.eu",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a49487e442f266ce3511a"
+  },
+  "name": "AMBASSADE FRANCE AU VIETNAM",
+  "state": "Pháp",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://vn.ambafrance.org/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a49fe7e442f266ce3511b"
+  },
+  "name": "ECOLE NATIONAL SUPERIEURE DE MECANIQUE ET D'AERONAUTIQUE",
+  "state": "Pháp",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://www.ensma.fr/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4aa77e442f266ce3511c"
+  },
+  "name": "FACHHOCHSCHULE MUNCHEN",
+  "state": "Đức",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://www.hm.edu/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4af07e442f266ce3511d"
+  },
+  "name": "DRESDEN UNIVERSITY",
+  "state": "Đức",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://tu-dresden.de/",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9a4b817e442f266ce3511e"
+  },
+  "name": "BUDAPEST UNIVERSITY OF TECHNOLOGY AND ECONOMICS",
+  "state": "Hung-ga-ri",
+  "description": "Đối tác liên kết tại khu vực Châu Âu",
+  "link": "https://www.bme.hu",
+  "__v": 0
+}]
