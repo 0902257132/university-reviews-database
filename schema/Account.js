@@ -55,6 +55,11 @@ module.exports = {
       ref: "Comment.user",
       many: true,
     },
+    favouriteUniversity: {
+      type: Relationship,
+      ref: "University",
+      many: true,
+    },
   },
   labelResolver: (item) => item.email,
 };
