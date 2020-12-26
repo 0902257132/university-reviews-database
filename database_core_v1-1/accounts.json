@@ -29,9 +29,9 @@
   "_id": {
     "$oid": "5fa370e17b727f0f30d5d6a5"
   },
-  "email": "takuda@gmail.com",
+  "email": "Chey@gmail.com",
   "password": null,
-  "username": "Tokuda Osama Saga",
+  "username": "Chey Li",
   "isAdmin": false,
   "__v": 0
 },{
@@ -57,7 +57,7 @@
     "$oid": "5fbe64721bdc092948d7424b"
   },
   "email": "toi@gmail.com",
-  "username": "Tới Nguyễn",
+  "username": "Den",
   "isAdmin": false,
   "__v": 0
 }]

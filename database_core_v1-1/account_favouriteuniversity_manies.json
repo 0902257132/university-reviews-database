@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "5fe3fd66fbda852b3043a148"
+  },
+  "Account_left_id": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "University_right_id": {
+    "$oid": "5f904c69f9193e3104664abf"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe3fd66fbda852b3043a149"
+  },
+  "Account_left_id": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "University_right_id": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0
+}]

@@ -22,17 +22,6 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "5f8c4810ff1c802df074e7da"
-  },
-  "GroupMajor_left_id": {
-    "$oid": "5f8c4810ff1c802df074e7d8"
-  },
-  "DetailMajor_right_id": {
-    "$oid": "5f8c480eff1c802df074e7d7"
-  },
-  "__v": 0
-},{
-  "_id": {
     "$oid": "5f8c4810ff1c802df074e7d9"
   },
   "GroupMajor_left_id": {
@@ -44,13 +33,13 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "5f8c484dff1c802df074e7e1"
+    "$oid": "5f8c4810ff1c802df074e7da"
   },
   "GroupMajor_left_id": {
-    "$oid": "5f8c484dff1c802df074e7de"
+    "$oid": "5f8c4810ff1c802df074e7d8"
   },
   "DetailMajor_right_id": {
-    "$oid": "5f8c484cff1c802df074e7dd"
+    "$oid": "5f8c480eff1c802df074e7d7"
   },
   "__v": 0
 },{
@@ -62,6 +51,17 @@
   },
   "DetailMajor_right_id": {
     "$oid": "5f8c4841ff1c802df074e7dc"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8c484dff1c802df074e7e1"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f8c484dff1c802df074e7de"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f8c484cff1c802df074e7dd"
   },
   "__v": 0
 },{
@@ -154,17 +154,6 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "5f903ff1f9193e3104664a9e"
-  },
-  "GroupMajor_left_id": {
-    "$oid": "5f903ff1f9193e3104664a9a"
-  },
-  "DetailMajor_right_id": {
-    "$oid": "5f903f39f9193e3104664a96"
-  },
-  "__v": 0
-},{
-  "_id": {
     "$oid": "5f903ff1f9193e3104664a9d"
   },
   "GroupMajor_left_id": {
@@ -183,6 +172,17 @@
   },
   "DetailMajor_right_id": {
     "$oid": "5f903f58f9193e3104664a97"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f903ff1f9193e3104664a9e"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f903ff1f9193e3104664a9a"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f903f39f9193e3104664a96"
   },
   "__v": 0
 },{
@@ -220,17 +220,6 @@
   "__v": 0
 },{
   "_id": {
-    "$oid": "5f9040c1f9193e3104664aa6"
-  },
-  "GroupMajor_left_id": {
-    "$oid": "5f9040c1f9193e3104664aa4"
-  },
-  "DetailMajor_right_id": {
-    "$oid": "5f904093f9193e3104664aa3"
-  },
-  "__v": 0
-},{
-  "_id": {
     "$oid": "5f9040c1f9193e3104664aa5"
   },
   "GroupMajor_left_id": {
@@ -238,6 +227,17 @@
   },
   "DetailMajor_right_id": {
     "$oid": "5f904071f9193e3104664aa2"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f9040c1f9193e3104664aa6"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5f9040c1f9193e3104664aa4"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5f904093f9193e3104664aa3"
   },
   "__v": 0
 },{
@@ -392,6 +392,17 @@
   },
   "DetailMajor_right_id": {
     "$oid": "5f90eb47f9193e3104664af6"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fdd773aad165827b4d60ddd"
+  },
+  "GroupMajor_left_id": {
+    "$oid": "5fdd7739ad165827b4d60ddc"
+  },
+  "DetailMajor_right_id": {
+    "$oid": "5fdd7738ad165827b4d60ddb"
   },
   "__v": 0
 }]

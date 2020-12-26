@@ -1,0 +1,161 @@
+[{
+  "_id": {
+    "$oid": "5fa6b45dea02542f18fdf4ca"
+  },
+  "title": "Em tính nộp vào điều dưỡng, anh chị cho nhận xét với ạ",
+  "content": "Em thi đại học đạt được 20.5, em t&iacute;nh nộp v&agrave;o điều dưỡng của trường, kh&ocirc;ng biết cơ sở vật chất v&agrave; m&ocirc;i trường trường m&igrave;nh như thế n&agrave;o, anh chị kh&oacute;a tr&ecirc;n cho nhận x&eacute;t với ạ, c&oacute; ng&agrave;nh n&agrave;o c&oacute; tổ hợp m&ocirc;n của y m&agrave; ph&ugrave; hợp với mức điểm của em kh&ocirc;ng, nhờ anh chị tư vấn",
+  "date_utc": {
+    "$date": "2020-12-22T00:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa3704d7b727f0f30d5d6a2"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "comments": {
+    "$oid": "5fa6b50dea02542f18fdf4cc"
+  },
+  "tags": "Tuyển sinh",
+  "like": 10,
+  "unlike": 2
+},{
+  "_id": {
+    "$oid": "5fa6bb96ea02542f18fdf4cf"
+  },
+  "title": "SỰ DỄ THƯƠNG CỦA CÁC ANH CHI BÊN ĐOÀN TRƯỜNG",
+  "content": "Em l&agrave; một t&acirc;n sinh vi&ecirc;n vừa mới v&agrave;o trường v&agrave; thật sự e rất ngỡ ng&agrave;ng với sự th&acirc;n thiện của c&aacute;c anh chị b&ecirc;n đo&agrave;n của trường. Mọi người rất ho&agrave; đồng vui vẻ v&agrave; nhiệt t&igrave;nh nữa, hỗ trợ tận t&igrave;nh cho con b&eacute; ch&acirc;n ước ch&acirc;n r&aacute;o từ qu&ecirc; ra để t&igrave;m trọ v&agrave; l&agrave;m mọi thủ tục nhập học. Thật sự cảm ơn c&aacute;c anh chị ấy rất nhiều.",
+  "date_utc": {
+    "$date": "2020-12-21T00:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa7aafff776ce26d404c6b4"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "tags": "Crush <3 ",
+  "like": 4,
+  "unlike": 1
+},{
+  "_id": {
+    "$oid": "5fa6c472ea02542f18fdf4d1"
+  },
+  "title": "SỰ THÀNH CÔNG CỦA CỰU SINH VIÊN!",
+  "content": "<p class=\"page-header\">Ph&oacute; chủ tịch FPT Software &ndash; cựu sinh vi&ecirc;n To&aacute;n Tin ứng dụng, anh Nguyễn Ho&agrave;ng Trung l&agrave; cựu sinh vi&ecirc;n lớp To&aacute;n ứng dụng (ng&agrave;nh To&aacute;n Tin ứng dụng) của Khoa To&aacute;n Tin ứng dụng, giờ l&agrave; Viện To&aacute;n ứng dụng v&agrave; Tin học Đại học B&aacute;ch Khoa H&agrave; Nội. Điều khiến anh kh&ocirc;ng thể qu&ecirc;n được ch&iacute;nh l&agrave; sự ấm &aacute;p v&agrave; th&acirc;n t&igrave;nh giữa thầy v&agrave; tr&ograve; trong Viện. &ldquo;Quan hệ giữa c&aacute;c thầy c&ocirc; v&agrave; sinh vi&ecirc;n rất chặt chẽ v&agrave; th&acirc;n thiết. Cuối tuần, cuối năm tới nh&agrave; thầy c&ocirc; ăn uống thoải m&aacute;i. Những l&uacute;c ấy, c&aacute;c thầy lu&ocirc;n mang rượu ngoại ra tiếp sinh vi&ecirc;n chứ chả nhận qu&agrave; bao giờ&rdquo;, anh Trung chia sẻ. &nbsp;&ldquo;Ng&agrave;y đ&oacute; m&aacute;y t&iacute;nh c&ograve;n hiếm, lại được c&ocirc; chủ nhiệm văn ph&ograve;ng khoa tin tưởng giao cho cả ch&igrave;a kho&aacute; ph&ograve;ng m&aacute;y, n&ecirc;n anh em l&ecirc;n đ&oacute; cả ng&agrave;y. Nếu c&oacute; tiết thực tập cũng vẫn l&agrave; những người ấy, n&ecirc;n tự dưng lại th&agrave;nh c&oacute; m&aacute;y t&iacute;nh c&aacute; nh&acirc;n. Ai cũng coi khoa như nh&agrave;, ở trường từ s&aacute;ng đến tối&rdquo;.</p>",
+  "date_utc": {
+    "$date": "2020-11-27T00:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fbe64721bdc092948d7424b"
+  },
+  "university": {
+    "$oid": "5f904c69f9193e3104664abf"
+  },
+  "__v": 0,
+  "tags": null,
+  "like": 4,
+  "unlike": 5
+},{
+  "_id": {
+    "$oid": "5fa6c5eeea02542f18fdf4d3"
+  },
+  "title": " WHERE THE PHOTO BRINGS THE TEST",
+  "content": "Do you believe Ulaw's semester exams run from the end of the winter of the year to the next spring? It's just fun to say because the school schedules the semester exams of students. Preparing to review so that only taking the semester exam is a \"long term resistance\" journey. The school has created conditions for students to review like that, of course, guarding the exam is super difficult. Let me describe \"mist\" for you to somewhat imagine the difficulty that I want to talk about. A 4-5 supervisor exam room looks at the exam you can imagine how many pairs of eyes can stop when you need to ask questions. Do not dream of looking horizontally, never intend to cheat on copying documents into the Law to pass the eyes of the examiner because each law book when you bring it into the examination room will be carefully examined by the examiner. The supervisor in the room is not enough, but there is also a corridor supervisor. The teachers will go around observing so your task is to complete your exam well, if you do not study well, then prepare for the study again.",
+  "date_utc": {
+    "$date": "2020-05-06T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa370e17b727f0f30d5d6a5"
+  },
+  "university": {
+    "$oid": "5f90f1f2f9193e3104664b1c"
+  },
+  "__v": 0,
+  "like": 1,
+  "unlike": 1
+},{
+  "_id": {
+    "$oid": "5fe59cf0e70c1f38dca580ec"
+  },
+  "title": "Tìm Nơi Thực Tập",
+  "content": "Hiện tại m&igrave;nh l&agrave; sinh vi&ecirc;n năm cuối chuy&ecirc;n ng&agrave;nh Điều dưỡng m&igrave;nh đang cần t&igrave;m một c&ocirc;ng ty để thực tập trong thời gian tới. Mọi người ai c&oacute; kinh nghiệm hoặc đ&atilde; được thực tập ở đ&acirc;u th&igrave; tư vấn gi&uacute;p m&igrave;nh với. Mong mọi người gi&uacute;p đỡ, m&igrave;nh cảm ơn.",
+  "tags": "intern",
+  "date_utc": {
+    "$date": "2020-12-20T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa7aae2f776ce26d404c6b3"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "like": 5,
+  "unlike": 1
+},{
+  "_id": {
+    "$oid": "5fe5a1b3e70c1f38dca580ed"
+  },
+  "title": "Ngại giao tiếp bằng Tiếng Anh",
+  "content": "M&igrave;nh cần sự chia sẻ từ c&aacute;c bạn về c&aacute;ch học Tiếng Anh v&agrave; giao tiếp Tiếng Anh với nhau. M&igrave;nh rất ngại trong việc giao tiếp v&igrave; khả năng học kh&aacute; tệ, mọi người c&oacute; c&aacute;ch học hoặc trung t&acirc;m n&agrave;o uy t&iacute;n chỉ gi&uacute;p m&igrave;nh với, m&igrave;nh cần cải thiện v&igrave; b&acirc;y giờ c&oacute; tiếng Anh l&agrave; một lợi thế rất lớn cho c&ocirc;ng việc sau n&agrave;y.",
+  "tags": "học tập",
+  "date_utc": {
+    "$date": "2020-12-19T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa7aafff776ce26d404c6b4"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "like": 1,
+  "unlike": 1
+},{
+  "_id": {
+    "$oid": "5fe5a35ae70c1f38dca580ee"
+  },
+  "title": "Ngành học",
+  "content": "Ở đ&acirc;y c&oacute; bạn n&agrave;o giống như m&igrave;nh kh&ocirc;ng nhỉ? Chọn ng&agrave;nh nghề theo &yacute; bố mẹ. Cuối năm 12 m&igrave;nh theo sự sắp của bố mẹ m&agrave; v&agrave;o học với một ng&agrave;nh m&igrave;nh chưa biết đến m&igrave;nh kh&ocirc;ng hứng th&uacute; t&igrave;m hiểu để đến khi v&agrave;o học m&igrave;nh mới thấy bản th&acirc;n thật sự kh&ocirc;ng hề ph&ugrave; hợp, rất ch&aacute;n nản. Kết quả học tập của m&igrave;nh c&agrave;ng ng&agrave;y c&agrave;ng tệ, thời gian nghỉ c&agrave;ng ng&agrave;y c&agrave;ng nhiều, thật sự b&acirc;y giờ m&igrave;nh kh&ocirc;ng biết giải quyết như thế n&agrave;o. Nếu như bỏ ngang th&igrave; sẽ l&agrave;m bố mẹ buồn nhưng nếu theo học th&igrave; chắc chắn m&igrave;nh kh&ocirc;ng thể theo kịp v&agrave; học kh&ocirc;ng v&agrave;o. C&aacute;c bạn c&oacute; thể cho m&igrave;nh xin &yacute; kiến được kh&ocirc;ng?",
+  "tags": "học tập",
+  "date_utc": {
+    "$date": "2020-12-21T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "user": {
+    "$oid": "5fa3704d7b727f0f30d5d6a2"
+  },
+  "university": {
+    "$oid": "5f90f1f2f9193e3104664b1c"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fe5aa9ae70c1f38dca580f1"
+  },
+  "title": "Are there any dormitories near University ?",
+  "content": "I am a new international student coming to Vietnam, I am a Laotian,and I&nbsp; don't know which accommodation or dormitory to support students near the university area?",
+  "tags": "dormitory",
+  "date_utc": {
+    "$date": "2020-12-25T05:00:00Z"
+  },
+  "date_offset": "+07:00",
+  "like": 5,
+  "user": {
+    "$oid": "5fa370e17b727f0f30d5d6a5"
+  },
+  "university": {
+    "$oid": "5f90548ff9193e3104664af5"
+  },
+  "__v": 0,
+  "unlike": 1
+}]
