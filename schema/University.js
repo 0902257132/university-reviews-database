@@ -1,10 +1,10 @@
-const { Text, Relationship, DateTime } = require("@keystonejs/fields");
-const { fileAdapter } = require("./Cloundinary.js");
-const { CloudinaryImage } = require("@keystonejs/fields-cloudinary-image");
-const access = require("./../access-control");
+const { Text, Relationship, DateTime } = require('@keystonejs/fields');
+const { fileAdapter } = require('./Cloundinary.js');
+const { CloudinaryImage } = require('@keystonejs/fields-cloudinary-image');
+const access = require('./../access-control');
 
 module.exports = {
-  schemaDoc: "A list of university in Vietnam",
+  schemaDoc: 'A list of university in Vietnam',
   access: {
     //delete: access.userIsAdmin,
   },
@@ -29,12 +29,17 @@ module.exports = {
     },
     topics: {
       type: Relationship,
-      ref: "Topic.university",
+      ref: 'Topic.university',
       many: true,
     },
     detailUniversity: {
       type: Relationship,
-      ref: "DetailUniversity",
+      ref: 'DetailUniversity',
+    },
+    rating: {
+      type: Relationship,
+      ref: 'Rating.university',
+      many: true,
     },
   },
 };

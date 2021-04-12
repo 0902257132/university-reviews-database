@@ -3,13 +3,13 @@ const {
   Password,
   Checkbox,
   Relationship,
-} = require("@keystonejs/fields");
-const access = require("./../access-control");
-const { CloudinaryImage } = require("@keystonejs/fields-cloudinary-image");
-const { fileAdapter } = require("./Cloundinary.js");
+} = require('@keystonejs/fields');
+const access = require('./../access-control');
+const { CloudinaryImage } = require('@keystonejs/fields-cloudinary-image');
+const { fileAdapter } = require('./Cloundinary.js');
 
 module.exports = {
-  schemaDoc: "A list of comment which discuss about a topic",
+  schemaDoc: 'A list of comment which discuss about a topic',
   access: {
     // update: access.userIsAdminOrOwner,
     //create: access.userIsAdmin,
@@ -26,11 +26,11 @@ module.exports = {
       // },
     },
     password: {
-      adminDoc: "Fill if you are admin university",
+      adminDoc: 'Fill if you are admin university',
       type: Password,
     },
     passwordUser: {
-      adminDoc: "Password for user",
+      adminDoc: 'Password for user',
       type: Text,
     },
     username: {
@@ -47,17 +47,22 @@ module.exports = {
     },
     topics: {
       type: Relationship,
-      ref: "Topic.user",
+      ref: 'Topic.user',
       many: true,
     },
     comments: {
       type: Relationship,
-      ref: "Comment.user",
+      ref: 'Comment.user',
       many: true,
     },
     favouriteUniversity: {
       type: Relationship,
-      ref: "University",
+      ref: 'University',
+      many: true,
+    },
+    rating: {
+      type: Relationship,
+      ref: 'Rating.user',
       many: true,
     },
   },
