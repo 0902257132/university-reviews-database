@@ -1,4 +1,4 @@
-const { Integer, Relationship } = require('@keystonejs/fields');
+const { Integer, Relationship, DateTime } = require('@keystonejs/fields');
 const { Wysiwyg } = require('@keystonejs/fields-wysiwyg-tinymce');
 const editorConfig = {
   forced_root_block: '',
@@ -26,6 +26,10 @@ module.exports = {
     jobOpportunities: {
       type: Integer,
       defaultValue: 5,
+    },
+    date: {
+      type: DateTime,
+      format: 'dd/MM/yyyy',
     },
     user: {
       type: Relationship,
