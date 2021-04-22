@@ -29,7 +29,7 @@ module.exports = {
     },
     date: {
       type: DateTime,
-      format: 'dd/MM/yyyy',
+      format: 'YYYY/MM/dd',
     },
     user: {
       type: Relationship,
